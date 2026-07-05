@@ -123,16 +123,13 @@ Directed a section-wide competitive gaming tournament, designing an auction-draf
 
 ## GitHub Stats
 
-<sub>These are static snapshots refreshed every 6 hours by [`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml) — no live third-party dependency, so they never show up broken.</sub>
+<sub>The metrics card below is generated entirely in-workflow by [`lowlighter/metrics`](https://github.com/lowlighter/metrics) — no external rendering server, so it can't go down the way third-party card APIs do. The streak and activity-graph cards are static snapshots refreshed every 6 hours by [`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml).</sub>
 
 <div align="center">
 
-<img height="165" src="./assets/github-stats/stats.svg" />
-<img height="165" src="./assets/github-stats/top-langs.svg" />
+<img src="./assets/github-stats/metrics.svg" width="100%" />
 
 <img src="./assets/github-stats/streak.svg" />
-
-<img src="./assets/github-stats/trophy.svg" />
 
 <img src="./assets/github-stats/activity-graph.svg" width="100%" />
 
