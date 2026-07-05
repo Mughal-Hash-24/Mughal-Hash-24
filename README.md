@@ -123,16 +123,18 @@ Directed a section-wide competitive gaming tournament, designing an auction-draf
 
 ## GitHub Stats
 
+<sub>These are static snapshots refreshed every 6 hours by [`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml) — no live third-party dependency, so they never show up broken.</sub>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mughal-Hash-24&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mughal-Hash-24&layout=compact&theme=radical&hide_border=true&hide=html&langs_count=8" />
+<img height="165" src="./assets/github-stats/stats.svg" />
+<img height="165" src="./assets/github-stats/top-langs.svg" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mughal-Hash-24&theme=radical&hide_border=true" />
+<img src="./assets/github-stats/streak.svg" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mughal-Hash-24&theme=radical&no-frame=true&margin-w=8&row=1" />
+<img src="./assets/github-stats/trophy.svg" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mughal-Hash-24&theme=react-dark&hide_border=true" width="100%" />
+<img src="./assets/github-stats/activity-graph.svg" width="100%" />
 
 </div>
 
@@ -140,14 +142,12 @@ Directed a section-wide competitive gaming tournament, designing an auction-draf
 
 ## Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/Mughal-Hash-24/Musannif"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Musannif&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Mughal-Hash-24/proxenos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=proxenos&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Mughal-Hash-24/Maktaba"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Maktaba&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Mughal-Hash-24/Chess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Chess&theme=radical&hide_border=true" /></a>
-
-</div>
+| Repo | Description | Primary Language |
+|---|---|---|
+| 🧠 [**Musannif**](https://github.com/Mughal-Hash-24/Musannif) | Structured long-form document generator — agentic system behind "Kybernetes" | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) |
+| 🌐 [**proxenos**](https://github.com/Mughal-Hash-24/proxenos) | B2B trade orchestration — Spring Boot core, Python NEAT engine, Solidity escrow | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 📚 [**Maktaba**](https://github.com/Mughal-Hash-24/Maktaba) | Living-library web app + Hikma AI companion over a personal Obsidian vault | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ♟️ [**Chess**](https://github.com/Mughal-Hash-24/Chess) | Chess engine with alpha-beta pruning | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 
 ### Codebase breakdown (measured directly from source, `cloc`)
 
