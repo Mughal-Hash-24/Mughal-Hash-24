@@ -28,13 +28,40 @@ I learn by shipping — from Solidity smart contracts and genetic algorithms to 
 
 ## Currently Building
 
-| Project | Stack | What it does |
-|---|---|---|
-| 🧠 **Kybernetes** | Python, Antigravity CLI, MCP, Obsidian | 10-layer agentic system using an Obsidian vault as a structured filesystem, a 1,518-line custom Python MCP server as its kernel, and 17 specialized sub-agents; `/os:sort` runs a 6-phase deterministic pipeline with 10 formal safety invariants to turn a short prompt into up to 50k words of cohesive, study-ready prose. |
-| 📚 **Maktaba + Hikma** | Vector Search, Knowledge Graph, LLM Orchestration | A public living-library app over a personal Obsidian vault, with a bring-your-own-API-key model, a "Night Sky" knowledge graph, semantic search, and a Polymath synthesis agent — named after Bayt al-Hikma. |
-| 🌐 **Proxenos** | Java Spring Boot, Solidity, Web3j, PostgreSQL | B2B trade orchestration platform bridging decentralized finance and physical logistics — a Solidity-based Trust Engine automating dual-key escrow on a Ganache testnet, plus a genetic algorithm solving multi-modal logistics constraints. |
-| 📄 **DocuMind** | n8n, LlamaParse, Pinecone, Gemini 1.5 Pro, Next.js | Dual-stage RAG pipeline for complex PDFs with regex-based page stamping for 100% structural integrity, namespace-level vector ingestion in Pinecone, and a "Semantic Sync" engine that highlights source segments in an integrated PDF viewer. |
-| 🎓 **EduGap** | Python, Gemini 2.0 Flash, ChromaDB, FastAPI, React Flow | Institutional Intelligence Lattice pairing a Socratic Tutor agent with a Curriculum-to-Job-Market Gap Analyzer, built on a Universal Harness with persistent memory, a tool registry, and an Obsidian-style interactive concept graph. |
+Pulled directly from the repos — real commit history, real language breakdowns, no filler.
+
+### 🧠 [Musannif](https://github.com/Mughal-Hash-24/Musannif) *(the repo behind "Kybernetes")*
+Structured long-form document generator — an agentic system that turns a short prompt into a fully-cited, narratively coherent long-form document, built to eliminate the redundant re-telling of the same facts/stories across sections.
+
+- **Architecture**: heading-based AST as the canonical document structure — the markdown heading hierarchy *is* the dependency graph, with `depends_on` edges between deterministic AST node addresses (no embeddings, no similarity thresholds)
+- **Sub-agents**: a fleet of domain agents named after classical polymaths — `ibnkhaldun`, `machiavelli`, `nabokov`, `iqbal`, `turing`, `davinci`, `alhaytham` — dispatched in parallel across document sections
+- **Live telemetry** (from `subagent_stats.json`): **1,248 LLM calls**, ~4.37M input tokens, ~2.5M output tokens processed across runs so far
+- **Stack**: Python 3.12, Anthropic SDK, `networkx` for the dependency graph, `textual` for a full TUI, `typer` CLI
+- **Stats**: 16 commits · ~12K lines of code (Python + docs) · CLI + TUI shipped, test suite in place
+
+### 🌐 [Proxenos](https://github.com/Mughal-Hash-24/proxenos)
+B2B trade orchestration platform bridging decentralized finance and physical logistics — the largest codebase of the three, split into three independently-versioned subsystems.
+
+- **`proxenos-core`** — Java 21 / Spring Boot service layer (largest single-language footprint: 21K+ lines of Java)
+- **`proxenos-ai`** — Python services including a `neat_engine` (NEAT genetic algorithm) solving the multi-constraint multi-modal logistics problem
+- **`proxenos-contracts`** — Solidity `Escrow.sol` on a Ganache testnet, wired through Web3j for dual-key escrow settlement, replacing traditional Letter-of-Credit latency
+- **Infra**: Dockerized Postgres + Ganache, Make/PowerShell cross-platform bootstrap scripts, Maven + Hardhat test pipelines
+- **Stats**: 56 commits · ~55K lines across 17 languages (Java, Python, Solidity, PlantUML, FXML, Shell, PowerShell) · full SRD + implementation-summary docs in-repo
+
+### 📚 [Maktaba](https://github.com/Mughal-Hash-24/Maktaba) + Hikma
+A living-library web app over a 650,000+ word personal Obsidian vault (CS, philosophy, history, Islamic jurisprudence), named after Bayt al-Hikma.
+
+- **Frontend**: Next.js 15 (Turbopack) + React 19, with a client-side `agent-harness.ts` powering **Hikma**, the AI research companion
+- **Bring-your-own-key**: `ApiKeyManager.tsx` stores API keys client-side, no server-side key custody
+- **Knowledge graph**: `react-force-graph-2d`-powered "Night Sky" graph over the vault
+- **Search & content pipeline**: `remark`/`rehype` markdown pipeline with KaTeX math and syntax highlighting, `pagefind` static search, `@huggingface/transformers` for in-browser embeddings, Supabase for auth/storage
+- **Stats**: 15 commits · ~22K lines of code, dominated by TypeScript (8.2K) and CSS (4K)
+
+### Also on the resume
+- 📄 **DocuMind** — Dual-stage RAG pipeline (n8n + LlamaParse + Pinecone + Gemini 1.5 Pro) for high-precision, page-cited PDF question answering, with a Next.js "Semantic Sync" viewer
+- 🎓 **EduGap** — Socratic Tutor + Curriculum-to-Job-Market Gap Analyzer on a custom agent harness with persistent memory and an Obsidian-style React Flow concept graph
+
+*(DocuMind and EduGap repos aren't public yet — push them and I'll pull the same real stats for them.)*
 
 ---
 
@@ -117,14 +144,22 @@ Directed a section-wide competitive gaming tournament, designing an auction-draf
 
 <div align="center">
 
+<a href="https://github.com/Mughal-Hash-24/Musannif"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Musannif&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Mughal-Hash-24/proxenos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=proxenos&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Mughal-Hash-24/Maktaba"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Maktaba&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/Mughal-Hash-24/Chess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Chess&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Mughal-Hash-24/Chrono-Rift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Chrono-Rift&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Mughal-Hash-24/Buzz_Bomberz_in_cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Buzz_Bomberz_in_cpp&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Mughal-Hash-24/Wisdom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mughal-Hash-24&repo=Wisdom&theme=radical&hide_border=true" /></a>
 
 </div>
 
-> **Note:** Kybernetes, Maktaba, Proxenos, DocuMind, and EduGap aren't public repos yet on this GitHub — once you push/publish them, swap in `repo=<name>` above (or `github.com/<name>` in the links) and they'll render as pin cards automatically.
+### Codebase breakdown (measured directly from source, `cloc`)
+
+| Repo | Commits | Lines of Code | Top Languages |
+|---|---|---|---|
+| **Musannif** (Kybernetes) | 16 | ~12,000 | Markdown, Python |
+| **proxenos** | 56 | ~54,800 | Java, Markdown, JSON, FXML |
+| **Maktaba** | 15 | ~22,300 | JSON, TypeScript, CSS |
+
+> DocuMind and EduGap aren't public yet — push them and I'll pull the same real stats for them.
 
 ---
 
