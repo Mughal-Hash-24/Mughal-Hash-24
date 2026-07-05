@@ -61,8 +61,6 @@ A living-library web app over a 650,000+ word personal Obsidian vault (CS, philo
 - 📄 **DocuMind** — Dual-stage RAG pipeline (n8n + LlamaParse + Pinecone + Gemini 1.5 Pro) for high-precision, page-cited PDF question answering, with a Next.js "Semantic Sync" viewer
 - 🎓 **EduGap** — Socratic Tutor + Curriculum-to-Job-Market Gap Analyzer on a custom agent harness with persistent memory and an Obsidian-style React Flow concept graph
 
-*(DocuMind and EduGap repos aren't public yet — push them and I'll pull the same real stats for them.)*
-
 ---
 
 ## Experience
@@ -158,8 +156,6 @@ Directed a section-wide competitive gaming tournament, designing an auction-draf
 | **Musannif** (Kybernetes) | 16 | ~12,000 | Markdown, Python |
 | **proxenos** | 56 | ~54,800 | Java, Markdown, JSON, FXML |
 | **Maktaba** | 15 | ~22,300 | JSON, TypeScript, CSS |
-
-> DocuMind and EduGap aren't public yet — push them and I'll pull the same real stats for them.
 
 ---
 
