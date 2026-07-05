@@ -1,0 +1,31 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-stats/metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Mughal-Hash-24
+          template: classic
+          theme: chartreuse-dark
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: "language"
+          plugin_achievements: yes
+          plugin_achievements_display: "compact"
+          config_timezone: Asia/Karachi
