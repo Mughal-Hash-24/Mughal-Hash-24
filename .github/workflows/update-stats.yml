@@ -1,4 +1,4 @@
-name: Update GitHub Stats SVGs
+name: Generate Metrics
 
 on:
   schedule:
@@ -7,56 +7,25 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
-
 jobs:
-  update-stats:
+  metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Create assets folder
-        run: mkdir -p assets/github-stats
-
-      - name: Fetch stats card
-        run: |
-          curl -sf "https://github-readme-stats.vercel.app/api?username=Mughal-Hash-24&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" \
-            -o assets/github-stats/stats.svg || echo "stats card fetch failed, keeping previous version"
-
-      - name: Fetch top languages card
-        run: |
-          curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=Mughal-Hash-24&layout=compact&theme=radical&hide_border=true&hide=html&langs_count=8" \
-            -o assets/github-stats/top-langs.svg || echo "top-langs card fetch failed, keeping previous version"
-
-      - name: Fetch streak stats card
-        run: |
-          curl -sf "https://github-readme-streak-stats.herokuapp.com/?user=Mughal-Hash-24&theme=radical&hide_border=true" \
-            -o assets/github-stats/streak.svg || echo "streak card fetch failed, keeping previous version"
-
-      - name: Fetch trophy card
-        run: |
-          curl -sf "https://github-profile-trophy.vercel.app/?username=Mughal-Hash-24&theme=radical&no-frame=true&margin-w=8&row=1" \
-            -o assets/github-stats/trophy.svg || echo "trophy card fetch failed, keeping previous version"
-
-      - name: Fetch activity graph
-        run: |
-          curl -sf "https://github-readme-activity-graph.vercel.app/graph?username=Mughal-Hash-24&theme=react-dark&hide_border=true" \
-            -o assets/github-stats/activity-graph.svg || echo "activity graph fetch failed, keeping previous version"
-
-      - name: Validate fetched files are real SVGs (not error pages)
-        run: |
-          for f in assets/github-stats/*.svg; do
-            if ! grep -q "<svg" "$f"; then
-              echo "$f does not look like a valid SVG, restoring previous version from git"
-              git checkout -- "$f" || echo "no previous version to restore for $f"
-            fi
-          done
-
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: refresh GitHub stats SVGs" && git push)
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-stats/metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Mughal-Hash-24
+          template: classic
+          theme: chartreuse-dark
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: "language"
+          plugin_achievements: yes
+          plugin_achievements_display: "compact"
+          config_timezone: Asia/Karachi
