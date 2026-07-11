@@ -16,6 +16,42 @@
 
 ---
 
+## Neofetch
+
+```
+Mughal-Hash-24 / README.md
+
+           .:^^^^^^:.               ibtasaam@fast-nuces
+        .:^^::::::::^^:.            --------------------
+      :^^::::::::::::::^^:          OS: ..................... CS Undergrad, Batch '28
+    .^^::::::::::::::::::^^.        Uptime: .................. FAST-NUCES, Islamabad Campus
+   ^^::::::::::::::::::::::^^       Host: .................... FAST Artificial Intelligence Society
+  ^^:::::::.          .:::::^^      Kernel: .................. Teaching Assistant, OOP
+ ^^:::::::      ##      :::::^^     IDE: ..................... VS Code, IntelliJ IDEA, CLion
+:^^:::::::     ####      :::::^^:
+:^^:::::::   ########    :::::^^:   Languages.Programming: ... Python, C++, C, Java, JavaScript, Solidity, x86 ASM, SQL, R
+ ^^:::::::  ##########  :::::^^     Languages.Computer: ...... HTML, CSS, JSON, LaTeX, YAML
+  ^^:::::::   ######   :::::^^      Languages.Real: .......... English, Urdu
+   ^^::::::::::::::::::::::^^
+    .^^::::::::::::::::::^^.        Hobbies.Building: ........ Agentic AI Pipelines, Game Dev (pygame/SFML), Smart Contracts
+      :^^::::::::::::::^^:          Hobbies.Learning: ........ Genetic Algorithms, Distributed Systems, Low-level Programming
+        .:^^::::::::^^:.
+           .:^^^^^^:.               - Contact -
+                                     Email.Personal: ........... ibtasaam.mughal@gmail.com
+                                     LinkedIn: .................. muhammad-ibtasaam-amjad
+                                     GitHub: .................... Mughal-Hash-24
+                                     Instagram: ................. mughal_ibtasaam
+
+                                     - GitHub Stats -
+                                     Repos: ... 3 flagship (Musannif, proxenos, Maktaba)
+                                     Commmits: . 87   |   Followers: ...........
+                                     Lines of Code: ~89,100 across 20+ languages
+```
+
+<sub>ASCII panel handwritten to mirror a `neofetch`/`fastfetch` layout. The metrics cards below (`lowlighter/metrics`, streak, and activity-graph) are the real, auto-generated numbers.</sub>
+
+---
+
 ## About Me
 
 CS undergrad at **FAST-NUCES, Islamabad (Batch '28)**, building at the intersection of agentic AI systems, distributed/decentralized architecture, and low-level systems programming.
