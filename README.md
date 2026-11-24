@@ -1,27 +1,121 @@
-# 💫 About Me:
-CS undergrad at FAST-NUCES, Islamabad (Batch '28), building at the intersection of agentic AI systems, distributed/decentralized architecture, and low-level systems programming.<br><br>I currently serve as a Teaching Assistant for Object-Oriented Programming and as Technical Projects Officer at the FAST Artificial Intelligence Society, where I design LangChain + n8n automation pipelines deployed for university-wide use. Outside coursework, I'm building Kybernetes — a 10-layer agentic note-taking system — and Maktaba, a living-library web app built on a 650,000+ word personal knowledge vault spanning CS, philosophy, history, and Islamic jurisprudence.<br><br>I learn by shipping — from Solidity smart contracts and genetic algorithms to x86 assembly and 10+ games in Python/pygame and C++/SFML.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/rose_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/rose_light.svg" />
+  <img align="right" width="300" src="./assets/readme/rose_dark.svg" alt="A detailed pink rose, drawn as chalk outlines from every point at once, flooded with colour, then cleared and drawn again" />
+</picture>
 
+# Muhammad Ibtasaam Amjad
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mughal_ibtasaam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ibtasaam-amjad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibtasaam.mughal@gmail.com) 
+CS at FAST-NUCES Islamabad<br />
+CTO, Verteon · Rawalpindi, Pakistan
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=plastic&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mughal-Hash-24&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mughal-Hash-24&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mughal-Hash-24&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build agentic systems, then I build the thing that checks them.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mughal-Hash-24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Record** &nbsp;1st, National AI Hackathon 2026 · 5 hackathon podiums ·<br />
+ICPC 21st nationally · Dean's List ×4 · CGPA 3.86
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[ibtasaam.com](https://ibtasaam.com) · [ibtasaam.mughal@gmail.com](mailto:ibtasaam.mughal@gmail.com)<br />
+[LinkedIn](https://www.linkedin.com/in/muhammad-ibtasaam-amjad) · [Download CV](https://ibtasaam.com/cv/muhammad-ibtasaam-amjad-cv.pdf)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mughal-Hash-24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br clear="right" />
 
----
-[![](https://komarev.com/ghpvc/?username=Mughal-Hash-24&icon=0&color=0)](https://visitcount.itsvg.in)
+<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> **Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.**
+>
+> <sub>Frank Herbert, *Dune*, Appendix II, "The Religion of Dune"</sub>
+
+Herbert was warning about systems like mine. That line is the standard I hold the work to. Every system I ship has to leave the judgement with the person using it: the machine proposes, the human decides, and nobody's thinking gets quietly outsourced. Two of the projects below exist specifically to keep that true.
+
+<br />
+
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/rule_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/rule_light.svg" /><img src="./assets/readme/rule_dark.svg" width="100%" alt="" /></picture></div>
+
+## The gate
+
+**Pokayoke** · `Python` `FastAPI` `Google ADK` `MCP` `React` `Cloud Run`
+
+First place, National AI Hackathon, October 2026. Holds suspect financial records before they reach the database, shows the evidence behind each correction, and refuses to release anything until a human analyst signs off. Named after the Toyota principle for mistake-proofing: the machine that can stop the line, not the machine that owns it. [Repository →](https://github.com/Mughal-Hash-24/pokayoke)
+
+**The Odyssey** · `Python` `FastAPI` `MCP` `Redis` `n8n` `TypeScript`
+
+A WhatsApp-facing ReAct orchestrator. Iris delegates over MCP to specialist systems for knowledge retrieval, long-form writing, Workspace control and software engineering, with per-sender memory and Redis-backed telemetry behind a live swarm dashboard.
+
+**Musannif** · `Python` `Textual` `NetworkX` `Anthropic` `Mistral`
+
+Turns a topic into an editable outline, schedules sections on a dependency graph, and generates them concurrently with nine domain specialists. You edit the plan before a word is written. [Repository →](https://github.com/Mughal-Hash-24/Musannif)
+
+## The attack
+
+**AI Agent Security** · `Python` `Kaggle` `aicomp_sdk`
+
+Red-team search against a sandboxed tool-using agent for the OpenAI / Google / IEEE Kaggle challenge. Seven prompt templates, replay-validated success and latency, candidate deduplication and a hard evaluation budget. Peak public rank: **40th worldwide**.
+
+The other half of the Herbert line. If other people's machines can be turned against their users, someone has to find out first, and it should be the person who builds them.
+
+## Evidence of thinking
+
+**Wisdom / Kybernetes** · `Obsidian` `Python` `MCP`
+
+A versioned knowledge base I actually live in, exposed to agents through hand-written MCP tools for note management, search and workflows.
+
+**Maktaba** · `Next.js 15` `React 19` `TypeScript` `D3` `Supabase`
+
+Publishes that vault as a library: **370 linked notes, roughly 896,000 words**, a 4,196-section semantic index and an interactive graph, with Hikma as the research companion that can search and read note sections.
+
+**NAaaS / NewsNet** · `Python` `spaCy` `DeBERTa-v3` `FAISS` `Leiden`
+
+News knowledge-graph research. Fine-tuned DeBERTa-v3 NER reached **93.68% micro F1 on 8,262 OntoNotes sentences** against a 87.19% spaCy baseline, with audited ECB+ and CoNLL-2012 resolution benchmarks.
+
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stats_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/stats_light.svg" /><img src="./assets/readme/stats_dark.svg" width="100%" alt="30 repositories, 5 hackathon podiums, 896 thousand words in the vault, 93.7 NER micro-F1" /></picture>
+</div>
+
+## Domains
+
+| Domain | Working on |
+|---|---|
+| **Agentic systems** | MCP orchestration, multi-agent planning and critique, tool safety, evaluation |
+| **Knowledge and retrieval** | Obsidian vaults as agent memory, semantic indexing, RAG with citations |
+| **NLP research** | Code-mixed Roman Urdu–English LID, NER, entity resolution, knowledge graphs |
+| **Systems and embedded** | Rust and Tauri, ESP32 and BLE telemetry, x86 MASM, C++ and SFML |
+| **Graph and classical AI** | Entity resolution at scale, PageRank and community detection, CSP and genetic algorithms |
+
+## Top five
+
+| Repository | What it is |
+|---|---|
+| [pokayoke](https://github.com/Mughal-Hash-24/pokayoke) | Pre-submission financial data QA that gates release behind analyst review |
+| [Maktaba](https://github.com/Mughal-Hash-24/Maktaba) | AI-assisted knowledge library, 370 notes and 896k words, with Hikma |
+| [Musannif](https://github.com/Mughal-Hash-24/Musannif) | Multi-agent long-form writer on a dependency graph |
+| [Wisdom](https://github.com/Mughal-Hash-24/Wisdom) | The Obsidian vault and its MCP tooling |
+| [Chrono-Rift](https://github.com/Mughal-Hash-24/Chrono-Rift) | Multi-process C++ game on POSIX shared memory, semaphores and deadlock detection |
+
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stack_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/stack_light.svg" />
+  <img src="./assets/readme/stack_dark.svg" width="100%" alt="Languages, agent frameworks, data, systems" />
+</picture>
+
+<details>
+<summary><b>Honours, teaching and everything else</b></summary>
+
+<br />
+
+**Honours** · Dean's List (Fall 2024, Spring 2025, Fall 2025, Spring 2026) · Silver Medal, highest SGPA Fall 2024 · 1st Place National AI Hackathon (Pokayoke) · 1st Place GridGuard · 2nd Place Islamabad Regional Hackathon (EduGap) · 5th Place TaxNet · 4th Place DocuMind · ICPC National Preliminaries, 1st on campus and 21st nationally · IKMC Silver (2022)
+
+**Teaching** · TA, Programming Fundamentals (CS 2025 and CS 2026) · Linear Algebra (CS 2025) · Object-Oriented Programming (CS 2025) · Expository Writing (CS 2025) · Arts and Humanities (SE 2026)
+
+**Leading** · Technical Projects Officer, FAST AI Society (LangChain and n8n automation, deployed university-wide) · Tech Wing Head and Buddy Wing Chairperson, FAST Computing Society · Vice President Internals, Meri Kahani · Vice President Externals, SIMT · Head of Event, Speed UML, NaSCon 2026
+
+**Selected others** · Verteon, offline posture-correction system on ESP32, BLE, Rust and Tauri · TaxNet, graph tax intelligence at ~0.90 F1 over 110,000 records in 48 hours · GridGuard, inspection dashboard across 7,442 meters and 11 DISCOs · Proxenos, B2B escrow on Solidity and Spring Boot · Islamagood and Baghdad Reimagined, classical-AI city simulators · Super Mario Bros in x86 MASM · ConsoleGraphicsExtension, a WinAPI console graphics library
+
+</details>
+
+<br />
+
+<div align="center">
+<sub>The rose above is one hand-drawn SVG: 88 petals on a phyllotactic spiral, drawn from every point at once, flooded with colour, cleared, repeated. No third-party widgets.</sub>
+</div>

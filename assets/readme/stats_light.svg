@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 132" width="100%" height="132" role="img" aria-label="Repositories 30, hackathon podiums 5, 896 thousand words in the vault, 93.7 NER micro-F1">
+<rect x="0.5" y="0.5" width="1179" height="131" rx="10" fill="none" stroke="#E8DFD9"/>
+<text x="148" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#B9648A">30</text>
+<text x="148" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A7F7A">REPOSITORIES</text>
+<line x1="295" y1="26" x2="295" y2="106" stroke="#E8DFD9" stroke-width="1"/>
+<text x="442" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#B9648A">05</text>
+<text x="442" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A7F7A">HACKATHON PODIUMS</text>
+<line x1="590" y1="26" x2="590" y2="106" stroke="#E8DFD9" stroke-width="1"/>
+<text x="738" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#B9648A">896K</text>
+<text x="738" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A7F7A">WORDS IN THE VAULT</text>
+<line x1="885" y1="26" x2="885" y2="106" stroke="#E8DFD9" stroke-width="1"/>
+<text x="1032" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#B9648A">93.7</text>
+<text x="1032" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A7F7A">NER MICRO-F1</text>
+</svg>
