@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 470" width="1180" height="470" role="img" aria-labelledby="tt dd"><title id="tt">Epigraph</title><desc id="dd">Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them. Frank Herbert  ·  Dune  ·  Appendix Ii, The Religion Of Dune</desc>
+<rect width="1180" height="470" rx="12" fill="#FBF8F4"/>
+<rect x="0.5" y="0.5" width="1179" height="469" rx="11.5" fill="none" stroke="#E2D8D0"/>
+<text x="44" y="200" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="170" fill="#EFE6DF">&#8220;</text>
+<text x="150" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="4.2" fill="#B25C7F">EPIGRAPH</text>
+<line x1="150" y1="120" x2="1034" y2="120" stroke="#E2D8D0" stroke-width="1"/>
+<text x="150" y="196" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="37" fill="#221C26" letter-spacing="-0.3">Once men turned their thinking over to machines</text>
+<text x="150" y="248.54" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="37" fill="#221C26" letter-spacing="-0.3">in the hope that this would set them free.</text>
+<text x="150" y="301.08" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="37" fill="#221C26" letter-spacing="-0.3">But that only permitted other men with machines</text>
+<text x="150" y="353.62" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="37" fill="#221C26" letter-spacing="-0.3">to enslave them.</text>
+<line x1="150" y1="412" x2="224" y2="412" stroke="#B25C7F" stroke-width="1"/>
+<text x="240" y="417" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.2" fill="#9A8F9A">FRANK HERBERT  ·  DUNE  ·  APPENDIX II, THE RELIGION OF DUNE</text>
+<path d="M30,30 l9,0 M30,30 l0,9" stroke="#E2D8D0" stroke-width="1" fill="none"/>
+<path d="M1150,30 l-9,0 M1150,30 l0,9" stroke="#E2D8D0" stroke-width="1" fill="none"/>
+<path d="M30,440 l9,0 M30,440 l0,-9" stroke="#E2D8D0" stroke-width="1" fill="none"/>
+<path d="M1150,440 l-9,0 M1150,440 l0,-9" stroke="#E2D8D0" stroke-width="1" fill="none"/>
+</svg>

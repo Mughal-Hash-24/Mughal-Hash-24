@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 486" width="1180" height="486" role="img" aria-labelledby="tt dd"><title id="tt">Five domains of work</title><desc id="dd">Agentic systems, knowledge and retrieval, NLP research, systems and embedded, graph and classical AI, around a core habit: model the problem, then check the model.</desc><style>path,circle{animation-duration:9.0s;animation-iteration-count:infinite;animation-timing-function:linear}
+@keyframes sp0{
+  0%,0.25s%{stroke-dashoffset:1;opacity:0}
+  0.30%{opacity:1}
+  18%{stroke-dashoffset:0;opacity:1}
+  100%{stroke-dashoffset:0;opacity:1}}
+@keyframes sp1{
+  0%,0.34s%{stroke-dashoffset:1;opacity:0}
+  0.30%{opacity:1}
+  27%{stroke-dashoffset:0;opacity:1}
+  100%{stroke-dashoffset:0;opacity:1}}
+@keyframes sp2{
+  0%,0.43s%{stroke-dashoffset:1;opacity:0}
+  0.30%{opacity:1}
+  36%{stroke-dashoffset:0;opacity:1}
+  100%{stroke-dashoffset:0;opacity:1}}
+@keyframes sp3{
+  0%,0.52s%{stroke-dashoffset:1;opacity:0}
+  0.30%{opacity:1}
+  45%{stroke-dashoffset:0;opacity:1}
+  100%{stroke-dashoffset:0;opacity:1}}
+@keyframes sp4{
+  0%,0.61s%{stroke-dashoffset:1;opacity:0}
+  0.30%{opacity:1}
+  54%{stroke-dashoffset:0;opacity:1}
+  100%{stroke-dashoffset:0;opacity:1}}
+@keyframes core{
+  0%,2%{stroke-dashoffset:1;opacity:0} 4%{opacity:1}
+  40%{stroke-dashoffset:0;opacity:1} 100%{stroke-dashoffset:0;opacity:1}}
+.sp0{animation-name:sp0}.sp1{animation-name:sp1}.sp2{animation-name:sp2}.sp3{animation-name:sp3}.sp4{animation-name:sp4}.core{animation-name:core}@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;opacity:1 !important}}</style><rect width="1180" height="486" rx="12" fill="#0E0C16"/>
+<rect x="0.5" y="0.5" width="1179" height="485" rx="11.5" fill="none" stroke="#272134"/>
+<circle cx="590" cy="244" r="158" fill="none" stroke="#2E2740" stroke-width="1" stroke-dasharray="2 6"/>
+<circle cx="590" cy="244" r="98" fill="none" stroke="#2E2740" stroke-width="1" stroke-dasharray="2 6"/>
+<path class="sp0" d="M590,244 L590,86" fill="none" stroke="#2E2740" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+<path class="sp1" d="M590,244 L722.2,201" fill="none" stroke="#2E2740" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+<path class="sp2" d="M590,244 L679.2,366.7" fill="none" stroke="#2E2740" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+<path class="sp3" d="M590,244 L508.3,356.5" fill="none" stroke="#2E2740" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+<path class="sp4" d="M590,244 L445.7,197.1" fill="none" stroke="#2E2740" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+<circle class="nd0" cx="590" cy="86" r="5.5" fill="#E9A6BE" opacity="0"/>
+<circle cx="590" cy="86" r="13" fill="none" stroke="#E9A6BE" stroke-width="0.8" opacity="0.35"/>
+<text x="590" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#EDE7F0">AGENTIC SYSTEMS</text>
+<text x="590" y="69" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#948AA0">MCP orchestration · planning · tool safety</text>
+<circle class="nd1" cx="722.2" cy="201" r="5.5" fill="#E9A6BE" opacity="0"/>
+<circle cx="722.2" cy="201" r="13" fill="none" stroke="#E9A6BE" stroke-width="0.8" opacity="0.35"/>
+<text x="744.2" y="198" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#EDE7F0">KNOWLEDGE</text>
+<text x="744.2" y="216" text-anchor="start" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#948AA0">vaults as memory · semantic index · cited RAG</text>
+<circle class="nd2" cx="679.2" cy="366.7" r="5.5" fill="#E9A6BE" opacity="0"/>
+<circle cx="679.2" cy="366.7" r="13" fill="none" stroke="#E9A6BE" stroke-width="0.8" opacity="0.35"/>
+<text x="701.2" y="363.7" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#EDE7F0">NLP RESEARCH</text>
+<text x="701.2" y="381.7" text-anchor="start" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#948AA0">code-mixed LID · NER · entity resolution</text>
+<circle class="nd3" cx="508.3" cy="356.5" r="5.5" fill="#E9A6BE" opacity="0"/>
+<circle cx="508.3" cy="356.5" r="13" fill="none" stroke="#E9A6BE" stroke-width="0.8" opacity="0.35"/>
+<text x="486.3" y="353.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#EDE7F0">SYSTEMS</text>
+<text x="486.3" y="371.5" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#948AA0">Rust · Tauri · ESP32 · x86 MASM · POSIX IPC</text>
+<circle class="nd4" cx="445.7" cy="197.1" r="5.5" fill="#E9A6BE" opacity="0"/>
+<circle cx="445.7" cy="197.1" r="13" fill="none" stroke="#E9A6BE" stroke-width="0.8" opacity="0.35"/>
+<text x="423.7" y="194.1" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#EDE7F0">GRAPH + CLASSICAL AI</text>
+<text x="423.7" y="212.1" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#948AA0">resolution at scale · CSP · genetic search</text>
+<circle cx="590" cy="244" r="70" fill="none" stroke="#C9739A" stroke-width="1" opacity="0.5"/>
+<circle cx="590" cy="244" r="64" fill="#0E0C16" opacity="1"/>
+<text x="590" y="232" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="10.5" fill="#E9A6BE" letter-spacing="1.8">THE HABIT</text>
+<text x="590" y="251" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="13" fill="#EDE7F0" letter-spacing="0">model the problem,</text>
+<text x="590" y="270" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="13" fill="#EDE7F0" letter-spacing="0">then check the model</text>
+<circle class="core" cx="590" cy="244" r="70" fill="none" stroke="#E9A6BE" stroke-width="1.6" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+</svg>

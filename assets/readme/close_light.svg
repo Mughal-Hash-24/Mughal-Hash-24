@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 240" width="1180" height="240" role="img" aria-labelledby="tt dd">
+<title id="tt">Colophon</title>
+<desc id="dd">The rose is drawn by a machine. The thinking that chose it was not.</desc>
+<defs></defs>
+<style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
+path{animation-duration:8.6s}
+
+
+@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+</style>
+<line x1="0" y1="1" x2="1180" y2="1" stroke="#E2D8D0" stroke-width="1"/>
+<text x="590" y="96" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="30" fill="#241E27">The rose is drawn by a machine.</text>
+<text x="590" y="134" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="30" fill="#B25C7F">The thinking that chose it was not.</text>
+<text x="590" y="188" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#9A8F9A">88 PETALS  ·  PHYLLOTAXIS AT 137.5°  ·  ONE SVG  ·  NO THIRD-PARTY WIDGETS</text>
+</svg>

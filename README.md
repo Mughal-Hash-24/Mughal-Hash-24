@@ -1,121 +1,169 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/rose_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/rose_light.svg" />
-  <img align="right" width="300" src="./assets/readme/rose_dark.svg" alt="A detailed pink rose, drawn as chalk outlines from every point at once, flooded with colour, then cleared and drawn again" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero_light.svg" />
+  <img src="./assets/readme/hero_dark.svg" width="100%" alt="Muhammad Ibtasaam Amjad. CS at FAST-NUCES Islamabad, CTO at Verteon, Rawalpindi. First place, National AI Hackathon 2026. 40th worldwide on Kaggle. 3.86 CGPA, Dean's List four times. A plotter draws a detailed pink rose." />
 </picture>
 
-# Muhammad Ibtasaam Amjad
+<p align="center">
+<a href="https://ibtasaam.com">ibtasaam.com</a> &nbsp;·&nbsp; <a href="mailto:ibtasaam.mughal@gmail.com">ibtasaam.mughal@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/muhammad-ibtasaam-amjad">LinkedIn</a> &nbsp;·&nbsp; <a href="https://ibtasaam.com/cv/muhammad-ibtasaam-amjad-cv.pdf">Download CV</a>
+</p>
 
-CS at FAST-NUCES Islamabad<br />
-CTO, Verteon · Rawalpindi, Pakistan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/epigraph_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/epigraph_light.svg" />
+  <img src="./assets/readme/epigraph_dark.svg" width="100%" alt="Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them. Frank Herbert, Dune, Appendix II." />
+</picture>
 
-I build agentic systems, then I build the thing that checks them.
+I build agentic systems, which is exactly what Herbert was warning about. So the line is not decoration here. It is the standard: the machine proposes, the human decides, and nothing gets released without a person answering for it. The work below is organised around that.
 
-**Record** &nbsp;1st, National AI Hackathon 2026 · 5 hackathon podiums ·<br />
-ICPC 21st nationally · Dean's List ×4 · CGPA 3.86
-
-[ibtasaam.com](https://ibtasaam.com) · [ibtasaam.mughal@gmail.com](mailto:ibtasaam.mughal@gmail.com)<br />
-[LinkedIn](https://www.linkedin.com/in/muhammad-ibtasaam-amjad) · [Download CV](https://ibtasaam.com/cv/muhammad-ibtasaam-amjad-cv.pdf)
-
-<br clear="right" />
-
-<br />
-
-> **Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.**
->
-> <sub>Frank Herbert, *Dune*, Appendix II, "The Religion of Dune"</sub>
-
-Herbert was warning about systems like mine. That line is the standard I hold the work to. Every system I ship has to leave the judgement with the person using it: the machine proposes, the human decides, and nobody's thinking gets quietly outsourced. Two of the projects below exist specifically to keep that true.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/index_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/index_light.svg" />
+  <img src="./assets/readme/index_dark.svg" width="100%" alt="Contents: 01 The gate, 02 The attack, 03 Evidence, 04 Domains, 05 Work, 06 Stack, 07 Record" />
+</picture>
 
 <br />
 
-<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/rule_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/rule_light.svg" /><img src="./assets/readme/rule_dark.svg" width="100%" alt="" /></picture></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_gate_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_gate_light.svg" />
+  <img src="./assets/readme/sec_gate_dark.svg" width="100%" alt="01 The gate" />
+</picture>
 
-## The gate
+### [Pokayoke](https://github.com/Mughal-Hash-24/pokayoke)
+`Python` `FastAPI` `Google ADK` `MCP` `Cloud Run` `React`
 
-**Pokayoke** · `Python` `FastAPI` `Google ADK` `MCP` `React` `Cloud Run`
+Holds suspect financial records before they reach the database, shows the evidence behind every correction, and will not release a row until an analyst signs off. First place, National AI Hackathon 2026.
 
-First place, National AI Hackathon, October 2026. Holds suspect financial records before they reach the database, shows the evidence behind each correction, and refuses to release anything until a human analyst signs off. Named after the Toyota principle for mistake-proofing: the machine that can stop the line, not the machine that owns it. [Repository →](https://github.com/Mughal-Hash-24/pokayoke)
+### The Odyssey
+`Python` `FastAPI` `MCP` `Redis` `n8n`
 
-**The Odyssey** · `Python` `FastAPI` `MCP` `Redis` `n8n` `TypeScript`
+A WhatsApp-facing ReAct orchestrator. Iris delegates over MCP to specialist systems for retrieval, writing, Workspace control and engineering, with per-sender memory behind a live swarm dashboard.
 
-A WhatsApp-facing ReAct orchestrator. Iris delegates over MCP to specialist systems for knowledge retrieval, long-form writing, Workspace control and software engineering, with per-sender memory and Redis-backed telemetry behind a live swarm dashboard.
+### Musannif
+`Python` `Textual` `NetworkX` `Anthropic` `Mistral`
 
-**Musannif** · `Python` `Textual` `NetworkX` `Anthropic` `Mistral`
+Turns a topic into an editable outline, schedules sections on a dependency graph, then generates them with nine specialists. You edit the plan before a word is written.
 
-Turns a topic into an editable outline, schedules sections on a dependency graph, and generates them concurrently with nine domain specialists. You edit the plan before a word is written. [Repository →](https://github.com/Mughal-Hash-24/Musannif)
+<br />
 
-## The attack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_attack_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_attack_light.svg" />
+  <img src="./assets/readme/sec_attack_dark.svg" width="100%" alt="02 The attack" />
+</picture>
 
-**AI Agent Security** · `Python` `Kaggle` `aicomp_sdk`
+### AI Agent Security
+`Python` `Kaggle` `aicomp_sdk`
 
-Red-team search against a sandboxed tool-using agent for the OpenAI / Google / IEEE Kaggle challenge. Seven prompt templates, replay-validated success and latency, candidate deduplication and a hard evaluation budget. Peak public rank: **40th worldwide**.
+Red-team search against a sandboxed tool-using agent for the OpenAI / Google / IEEE challenge. Seven prompt templates, replay-validated scoring, candidate deduplication, a hard evaluation budget. Peak rank **40th worldwide**.
 
-The other half of the Herbert line. If other people's machines can be turned against their users, someone has to find out first, and it should be the person who builds them.
+If other people's machines can be turned against their users, someone should find out first, and it should be the person who builds them.
 
-## Evidence of thinking
+<br />
 
-**Wisdom / Kybernetes** · `Obsidian` `Python` `MCP`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stats_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/stats_light.svg" />
+  <img src="./assets/readme/stats_dark.svg" width="100%" alt="30 public repositories, 20 plus shipped projects, 896 thousand words in the vault, 93.7 NER micro-F1, 5 hackathon podiums." />
+</picture>
 
-A versioned knowledge base I actually live in, exposed to agents through hand-written MCP tools for note management, search and workflows.
+<br />
 
-**Maktaba** · `Next.js 15` `React 19` `TypeScript` `D3` `Supabase`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_evidence_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_evidence_light.svg" />
+  <img src="./assets/readme/sec_evidence_dark.svg" width="100%" alt="03 The evidence" />
+</picture>
 
-Publishes that vault as a library: **370 linked notes, roughly 896,000 words**, a 4,196-section semantic index and an interactive graph, with Hikma as the research companion that can search and read note sections.
+### Wisdom / Kybernetes
+`Obsidian` `Python` `MCP`
 
-**NAaaS / NewsNet** · `Python` `spaCy` `DeBERTa-v3` `FAISS` `Leiden`
+The vault I actually live in, exposed to agents through hand-written MCP tools for search, note management and workflows.
 
-News knowledge-graph research. Fine-tuned DeBERTa-v3 NER reached **93.68% micro F1 on 8,262 OntoNotes sentences** against a 87.19% spaCy baseline, with audited ECB+ and CoNLL-2012 resolution benchmarks.
+### Maktaba
+`Next.js 15` `React 19` `TypeScript` `D3` `Supabase`
 
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stats_dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/readme/stats_light.svg" /><img src="./assets/readme/stats_dark.svg" width="100%" alt="30 repositories, 5 hackathon podiums, 896 thousand words in the vault, 93.7 NER micro-F1" /></picture>
-</div>
+That vault, published: **370 linked notes, roughly 896,000 words**, a 4,196-section semantic index and a graph you can walk. Hikma reads it back to you.
 
-## Domains
+### NAaaS / NewsNet
+`Python` `spaCy` `DeBERTa-v3` `FAISS` `Leiden`
 
-| Domain | Working on |
-|---|---|
-| **Agentic systems** | MCP orchestration, multi-agent planning and critique, tool safety, evaluation |
-| **Knowledge and retrieval** | Obsidian vaults as agent memory, semantic indexing, RAG with citations |
-| **NLP research** | Code-mixed Roman Urdu–English LID, NER, entity resolution, knowledge graphs |
-| **Systems and embedded** | Rust and Tauri, ESP32 and BLE telemetry, x86 MASM, C++ and SFML |
-| **Graph and classical AI** | Entity resolution at scale, PageRank and community detection, CSP and genetic algorithms |
+News knowledge-graph research. Fine-tuned DeBERTa-v3 NER at **93.68% micro F1 on 8,262 OntoNotes sentences**, against an 87.19% spaCy baseline.
 
-## Top five
+<br />
 
-| Repository | What it is |
-|---|---|
-| [pokayoke](https://github.com/Mughal-Hash-24/pokayoke) | Pre-submission financial data QA that gates release behind analyst review |
-| [Maktaba](https://github.com/Mughal-Hash-24/Maktaba) | AI-assisted knowledge library, 370 notes and 896k words, with Hikma |
-| [Musannif](https://github.com/Mughal-Hash-24/Musannif) | Multi-agent long-form writer on a dependency graph |
-| [Wisdom](https://github.com/Mughal-Hash-24/Wisdom) | The Obsidian vault and its MCP tooling |
-| [Chrono-Rift](https://github.com/Mughal-Hash-24/Chrono-Rift) | Multi-process C++ game on POSIX shared memory, semaphores and deadlock detection |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_domains_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_domains_light.svg" />
+  <img src="./assets/readme/sec_domains_dark.svg" width="100%" alt="04 Domains" />
+</picture>
 
-## Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/domains_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/domains_light.svg" />
+  <img src="./assets/readme/domains_dark.svg" width="100%" alt="Five domains around one core habit. Agentic systems: MCP orchestration, planning, tool safety. Knowledge: vaults as memory, semantic index, cited RAG. NLP research: code-mixed LID, NER, entity resolution. Systems: Rust, Tauri, ESP32, x86 MASM, POSIX IPC. Graph and classical AI: resolution at scale, CSP, genetic search. The habit: model the problem, then check the model." />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_work_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_work_light.svg" />
+  <img src="./assets/readme/sec_work_dark.svg" width="100%" alt="05 Selected work" />
+</picture>
+
+**01** &nbsp;**[pokayoke](https://github.com/Mughal-Hash-24/pokayoke)** &nbsp;<sub>pre-submission financial QA that gates release behind analyst review</sub><br />
+**02** &nbsp;**[Maktaba](https://github.com/Mughal-Hash-24/Maktaba)** &nbsp;<sub>the AI-assisted knowledge library: 370 notes, 896k words, Hikma</sub><br />
+**03** &nbsp;**[Musannif](https://github.com/Mughal-Hash-24/Musannif)** &nbsp;<sub>multi-agent long-form writer on a dependency graph</sub><br />
+**04** &nbsp;**[Wisdom](https://github.com/Mughal-Hash-24/Wisdom)** &nbsp;<sub>the Obsidian vault and its MCP tooling</sub><br />
+**05** &nbsp;**[Chrono-Rift](https://github.com/Mughal-Hash-24/Chrono-Rift)** &nbsp;<sub>multi-process C++ game on POSIX shared memory and deadlock detection</sub>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_stack_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_stack_light.svg" />
+  <img src="./assets/readme/sec_stack_dark.svg" width="100%" alt="06 Stack" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stack_dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/readme/stack_light.svg" />
-  <img src="./assets/readme/stack_dark.svg" width="100%" alt="Languages, agent frameworks, data, systems" />
+  <img src="./assets/readme/stack_dark.svg" width="100%" alt="Languages: Python, Java, C, C++, Rust, TypeScript, JavaScript, Solidity, x86 Assembly, SQL. Agents: MCP, LangChain, n8n, Google ADK, FastAPI, Spring Boot. Data and ML: PyTorch, spaCy, scikit-learn, sentence-transformers, MediaPipe, FAISS, Neo4j GDS, Redis. Systems: Tauri, Docker, Linux, ESP32, SFML, POSIX IPC, GCP." />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_record_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_record_light.svg" />
+  <img src="./assets/readme/sec_record_dark.svg" width="100%" alt="07 Record" />
 </picture>
 
 <details>
-<summary><b>Honours, teaching and everything else</b></summary>
+<summary>&nbsp;&nbsp;<b>Open the full record</b> &nbsp;<sub>honours, teaching, societies, other builds</sub></summary>
 
 <br />
 
 **Honours** · Dean's List (Fall 2024, Spring 2025, Fall 2025, Spring 2026) · Silver Medal, highest SGPA Fall 2024 · 1st Place National AI Hackathon (Pokayoke) · 1st Place GridGuard · 2nd Place Islamabad Regional Hackathon (EduGap) · 5th Place TaxNet · 4th Place DocuMind · ICPC National Preliminaries, 1st on campus and 21st nationally · IKMC Silver (2022)
 
-**Teaching** · TA, Programming Fundamentals (CS 2025 and CS 2026) · Linear Algebra (CS 2025) · Object-Oriented Programming (CS 2025) · Expository Writing (CS 2025) · Arts and Humanities (SE 2026)
+**Teaching** · TA, Programming Fundamentals (CS 2025, CS 2026) · Linear Algebra (CS 2025) · Object-Oriented Programming (CS 2025) · Expository Writing (CS 2025) · Arts and Humanities (SE 2026)
 
-**Leading** · Technical Projects Officer, FAST AI Society (LangChain and n8n automation, deployed university-wide) · Tech Wing Head and Buddy Wing Chairperson, FAST Computing Society · Vice President Internals, Meri Kahani · Vice President Externals, SIMT · Head of Event, Speed UML, NaSCon 2026
+**Leading** · Technical Projects Officer, FAST AI Society, where the LangChain and n8n automation runs university-wide · Tech Wing Head and Buddy Wing Chairperson, FAST Computing Society · Vice President Internals, Meri Kahani · Vice President Externals, SIMT · Head of Event, Speed UML, NaSCon 2026
 
-**Selected others** · Verteon, offline posture-correction system on ESP32, BLE, Rust and Tauri · TaxNet, graph tax intelligence at ~0.90 F1 over 110,000 records in 48 hours · GridGuard, inspection dashboard across 7,442 meters and 11 DISCOs · Proxenos, B2B escrow on Solidity and Spring Boot · Islamagood and Baghdad Reimagined, classical-AI city simulators · Super Mario Bros in x86 MASM · ConsoleGraphicsExtension, a WinAPI console graphics library
+**Elsewhere** · Verteon, offline posture correction on ESP32, BLE, Rust and Tauri · TaxNet, graph tax intelligence at ~0.90 F1 over 110,000 records in 48 hours · GridGuard, inspection dashboard across 7,442 meters and 11 DISCOs · Proxenos, B2B escrow on Solidity and Spring Boot · Islamagood and Baghdad Reimagined, classical-AI city simulators · Super Mario Bros in x86 MASM · ConsoleGraphicsExtension, a WinAPI console graphics library
 
 </details>
 
 <br />
 
-<div align="center">
-<sub>The rose above is one hand-drawn SVG: 88 petals on a phyllotactic spiral, drawn from every point at once, flooded with colour, cleared, repeated. No third-party widgets.</sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/close_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/close_light.svg" />
+  <img src="./assets/readme/close_dark.svg" width="100%" alt="The rose is drawn by a machine. The thinking that chose it was not. 88 petals, phyllotaxis at 137.5 degrees, one SVG, no third-party widgets." />
+</picture>
+
+<p align="center">
+<sub><a href="https://ibtasaam.com">ibtasaam.com</a> &nbsp;·&nbsp; <a href="mailto:ibtasaam.mughal@gmail.com">ibtasaam.mughal@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/muhammad-ibtasaam-amjad">LinkedIn</a> &nbsp;·&nbsp; <a href="https://ibtasaam.com/cv/muhammad-ibtasaam-amjad-cv.pdf">CV</a></sub>
+</p>

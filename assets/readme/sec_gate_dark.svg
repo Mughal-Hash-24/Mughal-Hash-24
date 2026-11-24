@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 120" width="1180" height="120" role="img" aria-labelledby="tt dd">
+<title id="tt">THE GATE</title>
+<desc id="dd">the machine proposes, the human decides</desc>
+<defs></defs>
+<style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
+path{animation-duration:8.6s}
+
+
+@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+</style>
+<rect width="1180" height="120" rx="0" fill="none"/>
+<text x="0" y="86" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="62" fill="#E9A6BE" opacity="0.28">01</text>
+<text x="96" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="5.2" fill="#EDE7F0">THE GATE</text>
+<text x="96" y="94" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#948AA0">the machine proposes, the human decides</text>
+<line x1="0" y1="119" x2="1180" y2="119" stroke="#272134" stroke-width="1"/>
+</svg>

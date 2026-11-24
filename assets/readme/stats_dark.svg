@@ -1,14 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 132" width="100%" height="132" role="img" aria-label="Repositories 30, hackathon podiums 5, 896 thousand words in the vault, 93.7 NER micro-F1">
-<rect x="0.5" y="0.5" width="1179" height="131" rx="10" fill="none" stroke="#2E2740"/>
-<text x="148" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#E9A6BE">30</text>
-<text x="148" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A8090">REPOSITORIES</text>
-<line x1="295" y1="26" x2="295" y2="106" stroke="#2E2740" stroke-width="1"/>
-<text x="442" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#E9A6BE">05</text>
-<text x="442" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A8090">HACKATHON PODIUMS</text>
-<line x1="590" y1="26" x2="590" y2="106" stroke="#2E2740" stroke-width="1"/>
-<text x="738" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#E9A6BE">896K</text>
-<text x="738" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A8090">WORDS IN THE VAULT</text>
-<line x1="885" y1="26" x2="885" y2="106" stroke="#2E2740" stroke-width="1"/>
-<text x="1032" y="68" text-anchor="middle" font-size="42" font-weight="600" font-family="ui-serif,Georgia,'Times New Roman',serif" fill="#E9A6BE">93.7</text>
-<text x="1032" y="94" text-anchor="middle" font-size="10.5" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#8A8090">NER MICRO-F1</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 150" width="1180" height="150" role="img" aria-labelledby="tt dd">
+<title id="tt">Record in numbers</title>
+<desc id="dd">30 public repositories, 5 hackathon podiums, 896 thousand words in the vault, 93.7 NER micro-F1, 40th worldwide on Kaggle.</desc>
+<defs></defs>
+<style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
+path{animation-duration:8.6s}
+
+
+@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+</style>
+<rect x="0.5" y="0.5" width="1179" height="149" rx="10" fill="none" stroke="#272134"/>
+<text x="118" y="82" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="40" fill="#E9A6BE">30</text>
+<text x="118" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.1" fill="#6B6178">PUBLIC REPOSITORIES</text>
+<line x1="236" y1="32" x2="236" y2="118" stroke="#1B1727" stroke-width="1"/>
+<text x="354" y="82" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="40" fill="#E9A6BE">20+</text>
+<text x="354" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.1" fill="#6B6178">SHIPPED PROJECTS</text>
+<line x1="472" y1="32" x2="472" y2="118" stroke="#1B1727" stroke-width="1"/>
+<text x="590" y="82" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="40" fill="#E9A6BE">896K</text>
+<text x="590" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.1" fill="#6B6178">WORDS IN THE VAULT</text>
+<line x1="708" y1="32" x2="708" y2="118" stroke="#1B1727" stroke-width="1"/>
+<text x="826" y="82" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="40" fill="#E9A6BE">93.7</text>
+<text x="826" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.1" fill="#6B6178">NER MICRO-F1</text>
+<line x1="944" y1="32" x2="944" y2="118" stroke="#1B1727" stroke-width="1"/>
+<text x="1062" y="82" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="40" fill="#E9A6BE">05</text>
+<text x="1062" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.1" fill="#6B6178">HACKATHON PODIUMS</text>
 </svg>
