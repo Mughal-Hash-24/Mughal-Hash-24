@@ -3,7 +3,7 @@
 <desc id="dd">honours, teaching, everything else</desc>
 <defs></defs>
 <style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
-path{animation-duration:8.6s}
+path,circle{animation-duration:8.6s}
 
 
 @media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}

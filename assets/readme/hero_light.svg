@@ -3,1593 +3,1599 @@
 <desc id="dd">Name plate and a plotter drawing a rose: construction marks, then petals, then colour.</desc>
 <defs><linearGradient id="pa" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#B25C7F"/><stop offset="0.5" stop-color="#DE8FAE"/><stop offset="1" stop-color="#F6C4D6"/></linearGradient><linearGradient id="pb" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#98466A"/><stop offset="0.5" stop-color="#C97C9C"/><stop offset="1" stop-color="#EEB2C9"/></linearGradient><linearGradient id="pc" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#7E3153"/><stop offset="0.55" stop-color="#B06289"/><stop offset="1" stop-color="#DE9CBB"/></linearGradient></defs>
 <style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
-path{animation-duration:8.6s}
+path,circle{animation-duration:8.6s}
 @keyframes rt0{
   0%,1.16%{stroke-dashoffset:1;opacity:0}
   1.40%{opacity:1}
   5.81%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt15{
   0%,2.03%{stroke-dashoffset:1;opacity:0}
   2.27%{opacity:1}
   6.69%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt30{
   0%,2.91%{stroke-dashoffset:1;opacity:0}
   3.14%{opacity:1}
   7.56%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt45{
   0%,3.78%{stroke-dashoffset:1;opacity:0}
   4.01%{opacity:1}
   8.43%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt60{
   0%,4.65%{stroke-dashoffset:1;opacity:0}
   4.88%{opacity:1}
   9.30%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt75{
   0%,5.52%{stroke-dashoffset:1;opacity:0}
   5.76%{opacity:1}
   10.17%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt90{
   0%,6.40%{stroke-dashoffset:1;opacity:0}
   6.63%{opacity:1}
   11.05%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt105{
   0%,7.27%{stroke-dashoffset:1;opacity:0}
   7.50%{opacity:1}
   11.92%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt120{
   0%,8.14%{stroke-dashoffset:1;opacity:0}
   8.37%{opacity:1}
   12.79%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt135{
   0%,9.01%{stroke-dashoffset:1;opacity:0}
   9.24%{opacity:1}
   13.66%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt150{
   0%,9.88%{stroke-dashoffset:1;opacity:0}
   10.12%{opacity:1}
   14.53%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt165{
   0%,10.76%{stroke-dashoffset:1;opacity:0}
   10.99%{opacity:1}
   15.41%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt180{
   0%,11.63%{stroke-dashoffset:1;opacity:0}
   11.86%{opacity:1}
   16.28%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt195{
   0%,12.50%{stroke-dashoffset:1;opacity:0}
   12.73%{opacity:1}
   17.15%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt210{
   0%,13.37%{stroke-dashoffset:1;opacity:0}
   13.60%{opacity:1}
   18.02%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt225{
   0%,14.24%{stroke-dashoffset:1;opacity:0}
   14.48%{opacity:1}
   18.90%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt240{
   0%,15.12%{stroke-dashoffset:1;opacity:0}
   15.35%{opacity:1}
   19.77%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt255{
   0%,15.99%{stroke-dashoffset:1;opacity:0}
   16.22%{opacity:1}
   20.64%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt270{
   0%,16.86%{stroke-dashoffset:1;opacity:0}
   17.09%{opacity:1}
   21.51%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt285{
   0%,17.73%{stroke-dashoffset:1;opacity:0}
   17.97%{opacity:1}
   22.38%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt300{
   0%,18.60%{stroke-dashoffset:1;opacity:0}
   18.84%{opacity:1}
   23.26%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt315{
   0%,19.48%{stroke-dashoffset:1;opacity:0}
   19.71%{opacity:1}
   24.13%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt330{
   0%,20.35%{stroke-dashoffset:1;opacity:0}
   20.58%{opacity:1}
   25.00%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rt345{
   0%,21.22%{stroke-dashoffset:1;opacity:0}
   21.45%{opacity:1}
   25.87%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rg0{
   0%,0.00%{stroke-dashoffset:1;opacity:0} 0.03%{opacity:1}
   6.40%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rg1{
   0%,0.58%{stroke-dashoffset:1;opacity:0} 0.93%{opacity:1}
   7.21%{stroke-dashoffset:0;opacity:1}
-  84.88%{stroke-dashoffset:0;opacity:1}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  88.37%{stroke-dashoffset:0;opacity:1}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:0;opacity:0}}
 @keyframes rn87{
-  0%,8.72%{stroke-dashoffset:0;opacity:0}
-  9.07%{opacity:0.9}
-  25.12%{stroke-dashoffset:-1;opacity:0.9}
-  25.58%{stroke-dashoffset:-1;opacity:0}
+  0%,6.40%{stroke-dashoffset:0;opacity:0}
+  6.74%{opacity:0.9}
+  16.98%{stroke-dashoffset:-1;opacity:0.9}
+  17.44%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp87{
-  0%,8.72%{stroke-dashoffset:1;fill-opacity:0}
-  25.58%{stroke-dashoffset:0;fill-opacity:0}
-  43.90%{stroke-dashoffset:0;fill-opacity:0}
-  50.29%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,6.40%{stroke-dashoffset:1;fill-opacity:0}
+  17.44%{stroke-dashoffset:0;fill-opacity:0}
+  26.69%{stroke-dashoffset:0;fill-opacity:0}
+  32.27%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn86{
-  0%,9.88%{stroke-dashoffset:0;opacity:0}
-  10.23%{opacity:0.9}
-  26.28%{stroke-dashoffset:-1;opacity:0.9}
-  26.74%{stroke-dashoffset:-1;opacity:0}
+  0%,7.21%{stroke-dashoffset:0;opacity:0}
+  7.56%{opacity:0.9}
+  17.79%{stroke-dashoffset:-1;opacity:0.9}
+  18.26%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp86{
-  0%,9.88%{stroke-dashoffset:1;fill-opacity:0}
-  26.74%{stroke-dashoffset:0;fill-opacity:0}
-  43.90%{stroke-dashoffset:0;fill-opacity:0}
-  50.29%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.21%{stroke-dashoffset:1;fill-opacity:0}
+  18.26%{stroke-dashoffset:0;fill-opacity:0}
+  26.69%{stroke-dashoffset:0;fill-opacity:0}
+  32.27%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn85{
-  0%,9.30%{stroke-dashoffset:0;opacity:0}
-  9.65%{opacity:0.9}
-  25.70%{stroke-dashoffset:-1;opacity:0.9}
-  26.16%{stroke-dashoffset:-1;opacity:0}
+  0%,6.80%{stroke-dashoffset:0;opacity:0}
+  7.15%{opacity:0.9}
+  17.38%{stroke-dashoffset:-1;opacity:0.9}
+  17.85%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp85{
-  0%,9.30%{stroke-dashoffset:1;fill-opacity:0}
-  26.16%{stroke-dashoffset:0;fill-opacity:0}
-  43.90%{stroke-dashoffset:0;fill-opacity:0}
-  50.29%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,6.80%{stroke-dashoffset:1;fill-opacity:0}
+  17.85%{stroke-dashoffset:0;fill-opacity:0}
+  26.69%{stroke-dashoffset:0;fill-opacity:0}
+  32.27%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn84{
-  0%,8.72%{stroke-dashoffset:0;opacity:0}
-  9.07%{opacity:0.9}
-  25.12%{stroke-dashoffset:-1;opacity:0.9}
-  25.58%{stroke-dashoffset:-1;opacity:0}
+  0%,6.40%{stroke-dashoffset:0;opacity:0}
+  6.74%{opacity:0.9}
+  16.98%{stroke-dashoffset:-1;opacity:0.9}
+  17.44%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp84{
-  0%,8.72%{stroke-dashoffset:1;fill-opacity:0}
-  25.58%{stroke-dashoffset:0;fill-opacity:0}
-  43.90%{stroke-dashoffset:0;fill-opacity:0}
-  50.29%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,6.40%{stroke-dashoffset:1;fill-opacity:0}
+  17.44%{stroke-dashoffset:0;fill-opacity:0}
+  26.69%{stroke-dashoffset:0;fill-opacity:0}
+  32.27%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn83{
-  0%,9.88%{stroke-dashoffset:0;opacity:0}
-  10.23%{opacity:0.9}
-  26.28%{stroke-dashoffset:-1;opacity:0.9}
-  26.74%{stroke-dashoffset:-1;opacity:0}
+  0%,7.21%{stroke-dashoffset:0;opacity:0}
+  7.56%{opacity:0.9}
+  17.79%{stroke-dashoffset:-1;opacity:0.9}
+  18.26%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp83{
-  0%,9.88%{stroke-dashoffset:1;fill-opacity:0}
-  26.74%{stroke-dashoffset:0;fill-opacity:0}
-  43.90%{stroke-dashoffset:0;fill-opacity:0}
-  50.29%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.21%{stroke-dashoffset:1;fill-opacity:0}
+  18.26%{stroke-dashoffset:0;fill-opacity:0}
+  26.69%{stroke-dashoffset:0;fill-opacity:0}
+  32.27%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn82{
-  0%,10.10%{stroke-dashoffset:0;opacity:0}
-  10.45%{opacity:0.9}
-  26.50%{stroke-dashoffset:-1;opacity:0.9}
-  26.96%{stroke-dashoffset:-1;opacity:0}
+  0%,7.32%{stroke-dashoffset:0;opacity:0}
+  7.67%{opacity:0.9}
+  17.90%{stroke-dashoffset:-1;opacity:0.9}
+  18.37%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp82{
-  0%,10.10%{stroke-dashoffset:1;fill-opacity:0}
-  26.96%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.32%{stroke-dashoffset:1;fill-opacity:0}
+  18.37%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn81{
-  0%,9.52%{stroke-dashoffset:0;opacity:0}
-  9.87%{opacity:0.9}
-  25.92%{stroke-dashoffset:-1;opacity:0.9}
-  26.38%{stroke-dashoffset:-1;opacity:0}
+  0%,6.91%{stroke-dashoffset:0;opacity:0}
+  7.26%{opacity:0.9}
+  17.49%{stroke-dashoffset:-1;opacity:0.9}
+  17.96%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp81{
-  0%,9.52%{stroke-dashoffset:1;fill-opacity:0}
-  26.38%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,6.91%{stroke-dashoffset:1;fill-opacity:0}
+  17.96%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn80{
-  0%,10.68%{stroke-dashoffset:0;opacity:0}
-  11.03%{opacity:0.9}
-  27.08%{stroke-dashoffset:-1;opacity:0.9}
-  27.55%{stroke-dashoffset:-1;opacity:0}
+  0%,7.73%{stroke-dashoffset:0;opacity:0}
+  8.07%{opacity:0.9}
+  18.31%{stroke-dashoffset:-1;opacity:0.9}
+  18.77%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp80{
-  0%,10.68%{stroke-dashoffset:1;fill-opacity:0}
-  27.55%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.73%{stroke-dashoffset:1;fill-opacity:0}
+  18.77%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn79{
-  0%,10.10%{stroke-dashoffset:0;opacity:0}
-  10.45%{opacity:0.9}
-  26.50%{stroke-dashoffset:-1;opacity:0.9}
-  26.96%{stroke-dashoffset:-1;opacity:0}
+  0%,7.32%{stroke-dashoffset:0;opacity:0}
+  7.67%{opacity:0.9}
+  17.90%{stroke-dashoffset:-1;opacity:0.9}
+  18.37%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp79{
-  0%,10.10%{stroke-dashoffset:1;fill-opacity:0}
-  26.96%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.32%{stroke-dashoffset:1;fill-opacity:0}
+  18.37%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn78{
-  0%,9.52%{stroke-dashoffset:0;opacity:0}
-  9.87%{opacity:0.9}
-  25.92%{stroke-dashoffset:-1;opacity:0.9}
-  26.38%{stroke-dashoffset:-1;opacity:0}
+  0%,6.91%{stroke-dashoffset:0;opacity:0}
+  7.26%{opacity:0.9}
+  17.49%{stroke-dashoffset:-1;opacity:0.9}
+  17.96%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp78{
-  0%,9.52%{stroke-dashoffset:1;fill-opacity:0}
-  26.38%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,6.91%{stroke-dashoffset:1;fill-opacity:0}
+  17.96%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn77{
-  0%,10.68%{stroke-dashoffset:0;opacity:0}
-  11.03%{opacity:0.9}
-  27.08%{stroke-dashoffset:-1;opacity:0.9}
-  27.55%{stroke-dashoffset:-1;opacity:0}
+  0%,7.73%{stroke-dashoffset:0;opacity:0}
+  8.07%{opacity:0.9}
+  18.31%{stroke-dashoffset:-1;opacity:0.9}
+  18.77%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp77{
-  0%,10.68%{stroke-dashoffset:1;fill-opacity:0}
-  27.55%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.73%{stroke-dashoffset:1;fill-opacity:0}
+  18.77%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn76{
-  0%,10.10%{stroke-dashoffset:0;opacity:0}
-  10.45%{opacity:0.9}
-  26.50%{stroke-dashoffset:-1;opacity:0.9}
-  26.96%{stroke-dashoffset:-1;opacity:0}
+  0%,7.32%{stroke-dashoffset:0;opacity:0}
+  7.67%{opacity:0.9}
+  17.90%{stroke-dashoffset:-1;opacity:0.9}
+  18.37%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp76{
-  0%,10.10%{stroke-dashoffset:1;fill-opacity:0}
-  26.96%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.32%{stroke-dashoffset:1;fill-opacity:0}
+  18.37%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn75{
-  0%,9.52%{stroke-dashoffset:0;opacity:0}
-  9.87%{opacity:0.9}
-  25.92%{stroke-dashoffset:-1;opacity:0.9}
-  26.38%{stroke-dashoffset:-1;opacity:0}
+  0%,6.91%{stroke-dashoffset:0;opacity:0}
+  7.26%{opacity:0.9}
+  17.49%{stroke-dashoffset:-1;opacity:0.9}
+  17.96%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp75{
-  0%,9.52%{stroke-dashoffset:1;fill-opacity:0}
-  26.38%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,6.91%{stroke-dashoffset:1;fill-opacity:0}
+  17.96%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn74{
-  0%,10.68%{stroke-dashoffset:0;opacity:0}
-  11.03%{opacity:0.9}
-  27.08%{stroke-dashoffset:-1;opacity:0.9}
-  27.55%{stroke-dashoffset:-1;opacity:0}
+  0%,7.73%{stroke-dashoffset:0;opacity:0}
+  8.07%{opacity:0.9}
+  18.31%{stroke-dashoffset:-1;opacity:0.9}
+  18.77%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp74{
-  0%,10.68%{stroke-dashoffset:1;fill-opacity:0}
-  27.55%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.73%{stroke-dashoffset:1;fill-opacity:0}
+  18.77%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn73{
-  0%,10.10%{stroke-dashoffset:0;opacity:0}
-  10.45%{opacity:0.9}
-  26.50%{stroke-dashoffset:-1;opacity:0.9}
-  26.96%{stroke-dashoffset:-1;opacity:0}
+  0%,7.32%{stroke-dashoffset:0;opacity:0}
+  7.67%{opacity:0.9}
+  17.90%{stroke-dashoffset:-1;opacity:0.9}
+  18.37%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp73{
-  0%,10.10%{stroke-dashoffset:1;fill-opacity:0}
-  26.96%{stroke-dashoffset:0;fill-opacity:0}
-  43.02%{stroke-dashoffset:0;fill-opacity:0}
-  49.42%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.32%{stroke-dashoffset:1;fill-opacity:0}
+  18.37%{stroke-dashoffset:0;fill-opacity:0}
+  26.05%{stroke-dashoffset:0;fill-opacity:0}
+  31.63%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn72{
-  0%,10.32%{stroke-dashoffset:0;opacity:0}
-  10.67%{opacity:0.9}
-  26.72%{stroke-dashoffset:-1;opacity:0.9}
-  27.18%{stroke-dashoffset:-1;opacity:0}
+  0%,7.43%{stroke-dashoffset:0;opacity:0}
+  7.78%{opacity:0.9}
+  18.01%{stroke-dashoffset:-1;opacity:0.9}
+  18.48%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp72{
-  0%,10.32%{stroke-dashoffset:1;fill-opacity:0}
-  27.18%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.43%{stroke-dashoffset:1;fill-opacity:0}
+  18.48%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn71{
-  0%,11.49%{stroke-dashoffset:0;opacity:0}
-  11.83%{opacity:0.9}
-  27.88%{stroke-dashoffset:-1;opacity:0.9}
-  28.35%{stroke-dashoffset:-1;opacity:0}
+  0%,8.24%{stroke-dashoffset:0;opacity:0}
+  8.59%{opacity:0.9}
+  18.82%{stroke-dashoffset:-1;opacity:0.9}
+  19.29%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp71{
-  0%,11.49%{stroke-dashoffset:1;fill-opacity:0}
-  28.35%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.24%{stroke-dashoffset:1;fill-opacity:0}
+  19.29%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn70{
-  0%,10.90%{stroke-dashoffset:0;opacity:0}
-  11.25%{opacity:0.9}
-  27.30%{stroke-dashoffset:-1;opacity:0.9}
-  27.76%{stroke-dashoffset:-1;opacity:0}
+  0%,7.84%{stroke-dashoffset:0;opacity:0}
+  8.18%{opacity:0.9}
+  18.42%{stroke-dashoffset:-1;opacity:0.9}
+  18.88%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp70{
-  0%,10.90%{stroke-dashoffset:1;fill-opacity:0}
-  27.76%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.84%{stroke-dashoffset:1;fill-opacity:0}
+  18.88%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn69{
-  0%,10.32%{stroke-dashoffset:0;opacity:0}
-  10.67%{opacity:0.9}
-  26.72%{stroke-dashoffset:-1;opacity:0.9}
-  27.18%{stroke-dashoffset:-1;opacity:0}
+  0%,7.43%{stroke-dashoffset:0;opacity:0}
+  7.78%{opacity:0.9}
+  18.01%{stroke-dashoffset:-1;opacity:0.9}
+  18.48%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp69{
-  0%,10.32%{stroke-dashoffset:1;fill-opacity:0}
-  27.18%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.43%{stroke-dashoffset:1;fill-opacity:0}
+  18.48%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn68{
-  0%,11.49%{stroke-dashoffset:0;opacity:0}
-  11.83%{opacity:0.9}
-  27.88%{stroke-dashoffset:-1;opacity:0.9}
-  28.35%{stroke-dashoffset:-1;opacity:0}
+  0%,8.24%{stroke-dashoffset:0;opacity:0}
+  8.59%{opacity:0.9}
+  18.82%{stroke-dashoffset:-1;opacity:0.9}
+  19.29%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp68{
-  0%,11.49%{stroke-dashoffset:1;fill-opacity:0}
-  28.35%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.24%{stroke-dashoffset:1;fill-opacity:0}
+  19.29%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn67{
-  0%,10.90%{stroke-dashoffset:0;opacity:0}
-  11.25%{opacity:0.9}
-  27.30%{stroke-dashoffset:-1;opacity:0.9}
-  27.76%{stroke-dashoffset:-1;opacity:0}
+  0%,7.84%{stroke-dashoffset:0;opacity:0}
+  8.18%{opacity:0.9}
+  18.42%{stroke-dashoffset:-1;opacity:0.9}
+  18.88%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp67{
-  0%,10.90%{stroke-dashoffset:1;fill-opacity:0}
-  27.76%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.84%{stroke-dashoffset:1;fill-opacity:0}
+  18.88%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn66{
-  0%,10.32%{stroke-dashoffset:0;opacity:0}
-  10.67%{opacity:0.9}
-  26.72%{stroke-dashoffset:-1;opacity:0.9}
-  27.18%{stroke-dashoffset:-1;opacity:0}
+  0%,7.43%{stroke-dashoffset:0;opacity:0}
+  7.78%{opacity:0.9}
+  18.01%{stroke-dashoffset:-1;opacity:0.9}
+  18.48%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp66{
-  0%,10.32%{stroke-dashoffset:1;fill-opacity:0}
-  27.18%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.43%{stroke-dashoffset:1;fill-opacity:0}
+  18.48%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn65{
-  0%,11.49%{stroke-dashoffset:0;opacity:0}
-  11.83%{opacity:0.9}
-  27.88%{stroke-dashoffset:-1;opacity:0.9}
-  28.35%{stroke-dashoffset:-1;opacity:0}
+  0%,8.24%{stroke-dashoffset:0;opacity:0}
+  8.59%{opacity:0.9}
+  18.82%{stroke-dashoffset:-1;opacity:0.9}
+  19.29%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp65{
-  0%,11.49%{stroke-dashoffset:1;fill-opacity:0}
-  28.35%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.24%{stroke-dashoffset:1;fill-opacity:0}
+  19.29%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn64{
-  0%,10.90%{stroke-dashoffset:0;opacity:0}
-  11.25%{opacity:0.9}
-  27.30%{stroke-dashoffset:-1;opacity:0.9}
-  27.76%{stroke-dashoffset:-1;opacity:0}
+  0%,7.84%{stroke-dashoffset:0;opacity:0}
+  8.18%{opacity:0.9}
+  18.42%{stroke-dashoffset:-1;opacity:0.9}
+  18.88%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp64{
-  0%,10.90%{stroke-dashoffset:1;fill-opacity:0}
-  27.76%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.84%{stroke-dashoffset:1;fill-opacity:0}
+  18.88%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn63{
-  0%,10.32%{stroke-dashoffset:0;opacity:0}
-  10.67%{opacity:0.9}
-  26.72%{stroke-dashoffset:-1;opacity:0.9}
-  27.18%{stroke-dashoffset:-1;opacity:0}
+  0%,7.43%{stroke-dashoffset:0;opacity:0}
+  7.78%{opacity:0.9}
+  18.01%{stroke-dashoffset:-1;opacity:0.9}
+  18.48%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp63{
-  0%,10.32%{stroke-dashoffset:1;fill-opacity:0}
-  27.18%{stroke-dashoffset:0;fill-opacity:0}
-  42.15%{stroke-dashoffset:0;fill-opacity:0}
-  48.55%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.43%{stroke-dashoffset:1;fill-opacity:0}
+  18.48%{stroke-dashoffset:0;fill-opacity:0}
+  25.41%{stroke-dashoffset:0;fill-opacity:0}
+  30.99%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn62{
-  0%,12.29%{stroke-dashoffset:0;opacity:0}
-  12.64%{opacity:0.9}
-  28.68%{stroke-dashoffset:-1;opacity:0.9}
-  29.15%{stroke-dashoffset:-1;opacity:0}
+  0%,8.76%{stroke-dashoffset:0;opacity:0}
+  9.11%{opacity:0.9}
+  19.34%{stroke-dashoffset:-1;opacity:0.9}
+  19.81%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp62{
-  0%,12.29%{stroke-dashoffset:1;fill-opacity:0}
-  29.15%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.76%{stroke-dashoffset:1;fill-opacity:0}
+  19.81%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn61{
-  0%,11.71%{stroke-dashoffset:0;opacity:0}
-  12.05%{opacity:0.9}
-  28.10%{stroke-dashoffset:-1;opacity:0.9}
-  28.57%{stroke-dashoffset:-1;opacity:0}
+  0%,8.35%{stroke-dashoffset:0;opacity:0}
+  8.70%{opacity:0.9}
+  18.93%{stroke-dashoffset:-1;opacity:0.9}
+  19.40%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp61{
-  0%,11.71%{stroke-dashoffset:1;fill-opacity:0}
-  28.57%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.35%{stroke-dashoffset:1;fill-opacity:0}
+  19.40%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn60{
-  0%,11.12%{stroke-dashoffset:0;opacity:0}
-  11.47%{opacity:0.9}
-  27.52%{stroke-dashoffset:-1;opacity:0.9}
-  27.98%{stroke-dashoffset:-1;opacity:0}
+  0%,7.95%{stroke-dashoffset:0;opacity:0}
+  8.29%{opacity:0.9}
+  18.53%{stroke-dashoffset:-1;opacity:0.9}
+  18.99%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp60{
-  0%,11.12%{stroke-dashoffset:1;fill-opacity:0}
-  27.98%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.95%{stroke-dashoffset:1;fill-opacity:0}
+  18.99%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn59{
-  0%,12.29%{stroke-dashoffset:0;opacity:0}
-  12.64%{opacity:0.9}
-  28.68%{stroke-dashoffset:-1;opacity:0.9}
-  29.15%{stroke-dashoffset:-1;opacity:0}
+  0%,8.76%{stroke-dashoffset:0;opacity:0}
+  9.11%{opacity:0.9}
+  19.34%{stroke-dashoffset:-1;opacity:0.9}
+  19.81%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp59{
-  0%,12.29%{stroke-dashoffset:1;fill-opacity:0}
-  29.15%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.76%{stroke-dashoffset:1;fill-opacity:0}
+  19.81%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn58{
-  0%,11.71%{stroke-dashoffset:0;opacity:0}
-  12.05%{opacity:0.9}
-  28.10%{stroke-dashoffset:-1;opacity:0.9}
-  28.57%{stroke-dashoffset:-1;opacity:0}
+  0%,8.35%{stroke-dashoffset:0;opacity:0}
+  8.70%{opacity:0.9}
+  18.93%{stroke-dashoffset:-1;opacity:0.9}
+  19.40%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp58{
-  0%,11.71%{stroke-dashoffset:1;fill-opacity:0}
-  28.57%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.35%{stroke-dashoffset:1;fill-opacity:0}
+  19.40%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn57{
-  0%,11.12%{stroke-dashoffset:0;opacity:0}
-  11.47%{opacity:0.9}
-  27.52%{stroke-dashoffset:-1;opacity:0.9}
-  27.98%{stroke-dashoffset:-1;opacity:0}
+  0%,7.95%{stroke-dashoffset:0;opacity:0}
+  8.29%{opacity:0.9}
+  18.53%{stroke-dashoffset:-1;opacity:0.9}
+  18.99%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp57{
-  0%,11.12%{stroke-dashoffset:1;fill-opacity:0}
-  27.98%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.95%{stroke-dashoffset:1;fill-opacity:0}
+  18.99%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn56{
-  0%,12.29%{stroke-dashoffset:0;opacity:0}
-  12.64%{opacity:0.9}
-  28.68%{stroke-dashoffset:-1;opacity:0.9}
-  29.15%{stroke-dashoffset:-1;opacity:0}
+  0%,8.76%{stroke-dashoffset:0;opacity:0}
+  9.11%{opacity:0.9}
+  19.34%{stroke-dashoffset:-1;opacity:0.9}
+  19.81%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp56{
-  0%,12.29%{stroke-dashoffset:1;fill-opacity:0}
-  29.15%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.76%{stroke-dashoffset:1;fill-opacity:0}
+  19.81%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn55{
-  0%,11.71%{stroke-dashoffset:0;opacity:0}
-  12.05%{opacity:0.9}
-  28.10%{stroke-dashoffset:-1;opacity:0.9}
-  28.57%{stroke-dashoffset:-1;opacity:0}
+  0%,8.35%{stroke-dashoffset:0;opacity:0}
+  8.70%{opacity:0.9}
+  18.93%{stroke-dashoffset:-1;opacity:0.9}
+  19.40%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp55{
-  0%,11.71%{stroke-dashoffset:1;fill-opacity:0}
-  28.57%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.35%{stroke-dashoffset:1;fill-opacity:0}
+  19.40%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn54{
-  0%,11.12%{stroke-dashoffset:0;opacity:0}
-  11.47%{opacity:0.9}
-  27.52%{stroke-dashoffset:-1;opacity:0.9}
-  27.98%{stroke-dashoffset:-1;opacity:0}
+  0%,7.95%{stroke-dashoffset:0;opacity:0}
+  8.29%{opacity:0.9}
+  18.53%{stroke-dashoffset:-1;opacity:0.9}
+  18.99%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp54{
-  0%,11.12%{stroke-dashoffset:1;fill-opacity:0}
-  27.98%{stroke-dashoffset:0;fill-opacity:0}
-  41.28%{stroke-dashoffset:0;fill-opacity:0}
-  47.67%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,7.95%{stroke-dashoffset:1;fill-opacity:0}
+  18.99%{stroke-dashoffset:0;fill-opacity:0}
+  24.77%{stroke-dashoffset:0;fill-opacity:0}
+  30.35%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn53{
-  0%,13.09%{stroke-dashoffset:0;opacity:0}
-  13.44%{opacity:0.9}
-  29.48%{stroke-dashoffset:-1;opacity:0.9}
-  29.95%{stroke-dashoffset:-1;opacity:0}
+  0%,9.28%{stroke-dashoffset:0;opacity:0}
+  9.63%{opacity:0.9}
+  19.86%{stroke-dashoffset:-1;opacity:0.9}
+  20.32%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp53{
-  0%,13.09%{stroke-dashoffset:1;fill-opacity:0}
-  29.95%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.28%{stroke-dashoffset:1;fill-opacity:0}
+  20.32%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn52{
-  0%,12.51%{stroke-dashoffset:0;opacity:0}
-  12.86%{opacity:0.9}
-  28.90%{stroke-dashoffset:-1;opacity:0.9}
-  29.37%{stroke-dashoffset:-1;opacity:0}
+  0%,8.87%{stroke-dashoffset:0;opacity:0}
+  9.22%{opacity:0.9}
+  19.45%{stroke-dashoffset:-1;opacity:0.9}
+  19.92%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp52{
-  0%,12.51%{stroke-dashoffset:1;fill-opacity:0}
-  29.37%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.87%{stroke-dashoffset:1;fill-opacity:0}
+  19.92%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn51{
-  0%,11.93%{stroke-dashoffset:0;opacity:0}
-  12.27%{opacity:0.9}
-  28.32%{stroke-dashoffset:-1;opacity:0.9}
-  28.79%{stroke-dashoffset:-1;opacity:0}
+  0%,8.46%{stroke-dashoffset:0;opacity:0}
+  8.81%{opacity:0.9}
+  19.04%{stroke-dashoffset:-1;opacity:0.9}
+  19.51%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp51{
-  0%,11.93%{stroke-dashoffset:1;fill-opacity:0}
-  28.79%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.46%{stroke-dashoffset:1;fill-opacity:0}
+  19.51%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn50{
-  0%,13.09%{stroke-dashoffset:0;opacity:0}
-  13.44%{opacity:0.9}
-  29.48%{stroke-dashoffset:-1;opacity:0.9}
-  29.95%{stroke-dashoffset:-1;opacity:0}
+  0%,9.28%{stroke-dashoffset:0;opacity:0}
+  9.63%{opacity:0.9}
+  19.86%{stroke-dashoffset:-1;opacity:0.9}
+  20.32%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp50{
-  0%,13.09%{stroke-dashoffset:1;fill-opacity:0}
-  29.95%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.28%{stroke-dashoffset:1;fill-opacity:0}
+  20.32%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn49{
-  0%,12.51%{stroke-dashoffset:0;opacity:0}
-  12.86%{opacity:0.9}
-  28.90%{stroke-dashoffset:-1;opacity:0.9}
-  29.37%{stroke-dashoffset:-1;opacity:0}
+  0%,8.87%{stroke-dashoffset:0;opacity:0}
+  9.22%{opacity:0.9}
+  19.45%{stroke-dashoffset:-1;opacity:0.9}
+  19.92%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp49{
-  0%,12.51%{stroke-dashoffset:1;fill-opacity:0}
-  29.37%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.87%{stroke-dashoffset:1;fill-opacity:0}
+  19.92%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn48{
-  0%,11.93%{stroke-dashoffset:0;opacity:0}
-  12.27%{opacity:0.9}
-  28.32%{stroke-dashoffset:-1;opacity:0.9}
-  28.79%{stroke-dashoffset:-1;opacity:0}
+  0%,8.46%{stroke-dashoffset:0;opacity:0}
+  8.81%{opacity:0.9}
+  19.04%{stroke-dashoffset:-1;opacity:0.9}
+  19.51%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp48{
-  0%,11.93%{stroke-dashoffset:1;fill-opacity:0}
-  28.79%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.46%{stroke-dashoffset:1;fill-opacity:0}
+  19.51%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn47{
-  0%,13.09%{stroke-dashoffset:0;opacity:0}
-  13.44%{opacity:0.9}
-  29.48%{stroke-dashoffset:-1;opacity:0.9}
-  29.95%{stroke-dashoffset:-1;opacity:0}
+  0%,9.28%{stroke-dashoffset:0;opacity:0}
+  9.63%{opacity:0.9}
+  19.86%{stroke-dashoffset:-1;opacity:0.9}
+  20.32%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp47{
-  0%,13.09%{stroke-dashoffset:1;fill-opacity:0}
-  29.95%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.28%{stroke-dashoffset:1;fill-opacity:0}
+  20.32%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn46{
-  0%,12.51%{stroke-dashoffset:0;opacity:0}
-  12.86%{opacity:0.9}
-  28.90%{stroke-dashoffset:-1;opacity:0.9}
-  29.37%{stroke-dashoffset:-1;opacity:0}
+  0%,8.87%{stroke-dashoffset:0;opacity:0}
+  9.22%{opacity:0.9}
+  19.45%{stroke-dashoffset:-1;opacity:0.9}
+  19.92%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp46{
-  0%,12.51%{stroke-dashoffset:1;fill-opacity:0}
-  29.37%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.87%{stroke-dashoffset:1;fill-opacity:0}
+  19.92%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn45{
-  0%,11.93%{stroke-dashoffset:0;opacity:0}
-  12.27%{opacity:0.9}
-  28.32%{stroke-dashoffset:-1;opacity:0.9}
-  28.79%{stroke-dashoffset:-1;opacity:0}
+  0%,8.46%{stroke-dashoffset:0;opacity:0}
+  8.81%{opacity:0.9}
+  19.04%{stroke-dashoffset:-1;opacity:0.9}
+  19.51%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp45{
-  0%,11.93%{stroke-dashoffset:1;fill-opacity:0}
-  28.79%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.46%{stroke-dashoffset:1;fill-opacity:0}
+  19.51%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn44{
-  0%,13.09%{stroke-dashoffset:0;opacity:0}
-  13.44%{opacity:0.9}
-  29.48%{stroke-dashoffset:-1;opacity:0.9}
-  29.95%{stroke-dashoffset:-1;opacity:0}
+  0%,9.28%{stroke-dashoffset:0;opacity:0}
+  9.63%{opacity:0.9}
+  19.86%{stroke-dashoffset:-1;opacity:0.9}
+  20.32%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp44{
-  0%,13.09%{stroke-dashoffset:1;fill-opacity:0}
-  29.95%{stroke-dashoffset:0;fill-opacity:0}
-  40.41%{stroke-dashoffset:0;fill-opacity:0}
-  46.80%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.28%{stroke-dashoffset:1;fill-opacity:0}
+  20.32%{stroke-dashoffset:0;fill-opacity:0}
+  24.13%{stroke-dashoffset:0;fill-opacity:0}
+  29.71%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn43{
-  0%,13.31%{stroke-dashoffset:0;opacity:0}
-  13.66%{opacity:0.9}
-  29.70%{stroke-dashoffset:-1;opacity:0.9}
-  30.17%{stroke-dashoffset:-1;opacity:0}
+  0%,9.39%{stroke-dashoffset:0;opacity:0}
+  9.74%{opacity:0.9}
+  19.97%{stroke-dashoffset:-1;opacity:0.9}
+  20.43%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp43{
-  0%,13.31%{stroke-dashoffset:1;fill-opacity:0}
-  30.17%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.39%{stroke-dashoffset:1;fill-opacity:0}
+  20.43%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn42{
-  0%,12.73%{stroke-dashoffset:0;opacity:0}
-  13.07%{opacity:0.9}
-  29.12%{stroke-dashoffset:-1;opacity:0.9}
-  29.59%{stroke-dashoffset:-1;opacity:0}
+  0%,8.98%{stroke-dashoffset:0;opacity:0}
+  9.33%{opacity:0.9}
+  19.56%{stroke-dashoffset:-1;opacity:0.9}
+  20.03%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp42{
-  0%,12.73%{stroke-dashoffset:1;fill-opacity:0}
-  29.59%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.98%{stroke-dashoffset:1;fill-opacity:0}
+  20.03%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn41{
-  0%,13.89%{stroke-dashoffset:0;opacity:0}
-  14.24%{opacity:0.9}
-  30.28%{stroke-dashoffset:-1;opacity:0.9}
-  30.75%{stroke-dashoffset:-1;opacity:0}
+  0%,9.79%{stroke-dashoffset:0;opacity:0}
+  10.14%{opacity:0.9}
+  20.37%{stroke-dashoffset:-1;opacity:0.9}
+  20.84%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp41{
-  0%,13.89%{stroke-dashoffset:1;fill-opacity:0}
-  30.75%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.79%{stroke-dashoffset:1;fill-opacity:0}
+  20.84%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn40{
-  0%,13.31%{stroke-dashoffset:0;opacity:0}
-  13.66%{opacity:0.9}
-  29.70%{stroke-dashoffset:-1;opacity:0.9}
-  30.17%{stroke-dashoffset:-1;opacity:0}
+  0%,9.39%{stroke-dashoffset:0;opacity:0}
+  9.74%{opacity:0.9}
+  19.97%{stroke-dashoffset:-1;opacity:0.9}
+  20.43%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp40{
-  0%,13.31%{stroke-dashoffset:1;fill-opacity:0}
-  30.17%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.39%{stroke-dashoffset:1;fill-opacity:0}
+  20.43%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn39{
-  0%,12.73%{stroke-dashoffset:0;opacity:0}
-  13.07%{opacity:0.9}
-  29.12%{stroke-dashoffset:-1;opacity:0.9}
-  29.59%{stroke-dashoffset:-1;opacity:0}
+  0%,8.98%{stroke-dashoffset:0;opacity:0}
+  9.33%{opacity:0.9}
+  19.56%{stroke-dashoffset:-1;opacity:0.9}
+  20.03%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp39{
-  0%,12.73%{stroke-dashoffset:1;fill-opacity:0}
-  29.59%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.98%{stroke-dashoffset:1;fill-opacity:0}
+  20.03%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn38{
-  0%,13.89%{stroke-dashoffset:0;opacity:0}
-  14.24%{opacity:0.9}
-  30.28%{stroke-dashoffset:-1;opacity:0.9}
-  30.75%{stroke-dashoffset:-1;opacity:0}
+  0%,9.79%{stroke-dashoffset:0;opacity:0}
+  10.14%{opacity:0.9}
+  20.37%{stroke-dashoffset:-1;opacity:0.9}
+  20.84%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp38{
-  0%,13.89%{stroke-dashoffset:1;fill-opacity:0}
-  30.75%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.79%{stroke-dashoffset:1;fill-opacity:0}
+  20.84%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn37{
-  0%,13.31%{stroke-dashoffset:0;opacity:0}
-  13.66%{opacity:0.9}
-  29.70%{stroke-dashoffset:-1;opacity:0.9}
-  30.17%{stroke-dashoffset:-1;opacity:0}
+  0%,9.39%{stroke-dashoffset:0;opacity:0}
+  9.74%{opacity:0.9}
+  19.97%{stroke-dashoffset:-1;opacity:0.9}
+  20.43%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp37{
-  0%,13.31%{stroke-dashoffset:1;fill-opacity:0}
-  30.17%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.39%{stroke-dashoffset:1;fill-opacity:0}
+  20.43%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn36{
-  0%,12.73%{stroke-dashoffset:0;opacity:0}
-  13.07%{opacity:0.9}
-  29.12%{stroke-dashoffset:-1;opacity:0.9}
-  29.59%{stroke-dashoffset:-1;opacity:0}
+  0%,8.98%{stroke-dashoffset:0;opacity:0}
+  9.33%{opacity:0.9}
+  19.56%{stroke-dashoffset:-1;opacity:0.9}
+  20.03%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp36{
-  0%,12.73%{stroke-dashoffset:1;fill-opacity:0}
-  29.59%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,8.98%{stroke-dashoffset:1;fill-opacity:0}
+  20.03%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn35{
-  0%,13.89%{stroke-dashoffset:0;opacity:0}
-  14.24%{opacity:0.9}
-  30.28%{stroke-dashoffset:-1;opacity:0.9}
-  30.75%{stroke-dashoffset:-1;opacity:0}
+  0%,9.79%{stroke-dashoffset:0;opacity:0}
+  10.14%{opacity:0.9}
+  20.37%{stroke-dashoffset:-1;opacity:0.9}
+  20.84%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp35{
-  0%,13.89%{stroke-dashoffset:1;fill-opacity:0}
-  30.75%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.79%{stroke-dashoffset:1;fill-opacity:0}
+  20.84%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn34{
-  0%,13.31%{stroke-dashoffset:0;opacity:0}
-  13.66%{opacity:0.9}
-  29.70%{stroke-dashoffset:-1;opacity:0.9}
-  30.17%{stroke-dashoffset:-1;opacity:0}
+  0%,9.39%{stroke-dashoffset:0;opacity:0}
+  9.74%{opacity:0.9}
+  19.97%{stroke-dashoffset:-1;opacity:0.9}
+  20.43%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp34{
-  0%,13.31%{stroke-dashoffset:1;fill-opacity:0}
-  30.17%{stroke-dashoffset:0;fill-opacity:0}
-  39.53%{stroke-dashoffset:0;fill-opacity:0}
-  45.93%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.39%{stroke-dashoffset:1;fill-opacity:0}
+  20.43%{stroke-dashoffset:0;fill-opacity:0}
+  23.49%{stroke-dashoffset:0;fill-opacity:0}
+  29.07%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn33{
-  0%,13.53%{stroke-dashoffset:0;opacity:0}
-  13.88%{opacity:0.9}
-  29.92%{stroke-dashoffset:-1;opacity:0.9}
-  30.39%{stroke-dashoffset:-1;opacity:0}
+  0%,9.50%{stroke-dashoffset:0;opacity:0}
+  9.84%{opacity:0.9}
+  20.08%{stroke-dashoffset:-1;opacity:0.9}
+  20.54%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp33{
-  0%,13.53%{stroke-dashoffset:1;fill-opacity:0}
-  30.39%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.50%{stroke-dashoffset:1;fill-opacity:0}
+  20.54%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn32{
-  0%,14.69%{stroke-dashoffset:0;opacity:0}
-  15.04%{opacity:0.9}
-  31.09%{stroke-dashoffset:-1;opacity:0.9}
-  31.55%{stroke-dashoffset:-1;opacity:0}
+  0%,10.31%{stroke-dashoffset:0;opacity:0}
+  10.66%{opacity:0.9}
+  20.89%{stroke-dashoffset:-1;opacity:0.9}
+  21.36%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp32{
-  0%,14.69%{stroke-dashoffset:1;fill-opacity:0}
-  31.55%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.31%{stroke-dashoffset:1;fill-opacity:0}
+  21.36%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn31{
-  0%,14.11%{stroke-dashoffset:0;opacity:0}
-  14.46%{opacity:0.9}
-  30.50%{stroke-dashoffset:-1;opacity:0.9}
-  30.97%{stroke-dashoffset:-1;opacity:0}
+  0%,9.90%{stroke-dashoffset:0;opacity:0}
+  10.25%{opacity:0.9}
+  20.48%{stroke-dashoffset:-1;opacity:0.9}
+  20.95%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp31{
-  0%,14.11%{stroke-dashoffset:1;fill-opacity:0}
-  30.97%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.90%{stroke-dashoffset:1;fill-opacity:0}
+  20.95%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rn30{
-  0%,13.53%{stroke-dashoffset:0;opacity:0}
-  13.88%{opacity:0.9}
-  29.92%{stroke-dashoffset:-1;opacity:0.9}
-  30.39%{stroke-dashoffset:-1;opacity:0}
+  0%,9.50%{stroke-dashoffset:0;opacity:0}
+  9.84%{opacity:0.9}
+  20.08%{stroke-dashoffset:-1;opacity:0.9}
+  20.54%{stroke-dashoffset:-1;opacity:0}
   100%{stroke-dashoffset:-1;opacity:0}}
 @keyframes rp30{
-  0%,13.53%{stroke-dashoffset:1;fill-opacity:0}
-  30.39%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.50%{stroke-dashoffset:1;fill-opacity:0}
+  20.54%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp29{
-  0%,14.69%{stroke-dashoffset:1;fill-opacity:0}
-  31.55%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.31%{stroke-dashoffset:1;fill-opacity:0}
+  21.36%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp28{
-  0%,14.11%{stroke-dashoffset:1;fill-opacity:0}
-  30.97%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.90%{stroke-dashoffset:1;fill-opacity:0}
+  20.95%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp27{
-  0%,13.53%{stroke-dashoffset:1;fill-opacity:0}
-  30.39%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.50%{stroke-dashoffset:1;fill-opacity:0}
+  20.54%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp26{
-  0%,14.69%{stroke-dashoffset:1;fill-opacity:0}
-  31.55%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.31%{stroke-dashoffset:1;fill-opacity:0}
+  21.36%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp25{
-  0%,14.11%{stroke-dashoffset:1;fill-opacity:0}
-  30.97%{stroke-dashoffset:0;fill-opacity:0}
-  38.66%{stroke-dashoffset:0;fill-opacity:0}
-  45.06%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,9.90%{stroke-dashoffset:1;fill-opacity:0}
+  20.95%{stroke-dashoffset:0;fill-opacity:0}
+  22.85%{stroke-dashoffset:0;fill-opacity:0}
+  28.43%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp24{
-  0%,14.33%{stroke-dashoffset:1;fill-opacity:0}
-  31.19%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.01%{stroke-dashoffset:1;fill-opacity:0}
+  21.06%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp23{
-  0%,15.49%{stroke-dashoffset:1;fill-opacity:0}
-  32.35%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.83%{stroke-dashoffset:1;fill-opacity:0}
+  21.87%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp22{
-  0%,14.91%{stroke-dashoffset:1;fill-opacity:0}
-  31.77%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.42%{stroke-dashoffset:1;fill-opacity:0}
+  21.47%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp21{
-  0%,14.33%{stroke-dashoffset:1;fill-opacity:0}
-  31.19%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.01%{stroke-dashoffset:1;fill-opacity:0}
+  21.06%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp20{
-  0%,15.49%{stroke-dashoffset:1;fill-opacity:0}
-  32.35%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.83%{stroke-dashoffset:1;fill-opacity:0}
+  21.87%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp19{
-  0%,14.91%{stroke-dashoffset:1;fill-opacity:0}
-  31.77%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.42%{stroke-dashoffset:1;fill-opacity:0}
+  21.47%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp18{
-  0%,14.33%{stroke-dashoffset:1;fill-opacity:0}
-  31.19%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.01%{stroke-dashoffset:1;fill-opacity:0}
+  21.06%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp17{
-  0%,15.49%{stroke-dashoffset:1;fill-opacity:0}
-  32.35%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.83%{stroke-dashoffset:1;fill-opacity:0}
+  21.87%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp16{
-  0%,14.91%{stroke-dashoffset:1;fill-opacity:0}
-  31.77%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.42%{stroke-dashoffset:1;fill-opacity:0}
+  21.47%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp15{
-  0%,14.33%{stroke-dashoffset:1;fill-opacity:0}
-  31.19%{stroke-dashoffset:0;fill-opacity:0}
-  37.79%{stroke-dashoffset:0;fill-opacity:0}
-  44.19%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.01%{stroke-dashoffset:1;fill-opacity:0}
+  21.06%{stroke-dashoffset:0;fill-opacity:0}
+  22.21%{stroke-dashoffset:0;fill-opacity:0}
+  27.79%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp14{
-  0%,16.29%{stroke-dashoffset:1;fill-opacity:0}
-  33.15%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.34%{stroke-dashoffset:1;fill-opacity:0}
+  22.39%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp13{
-  0%,15.71%{stroke-dashoffset:1;fill-opacity:0}
-  32.57%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.94%{stroke-dashoffset:1;fill-opacity:0}
+  21.98%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp12{
-  0%,15.13%{stroke-dashoffset:1;fill-opacity:0}
-  31.99%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.53%{stroke-dashoffset:1;fill-opacity:0}
+  21.58%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp11{
-  0%,16.29%{stroke-dashoffset:1;fill-opacity:0}
-  33.15%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.34%{stroke-dashoffset:1;fill-opacity:0}
+  22.39%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp10{
-  0%,15.71%{stroke-dashoffset:1;fill-opacity:0}
-  32.57%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.94%{stroke-dashoffset:1;fill-opacity:0}
+  21.98%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp9{
-  0%,15.13%{stroke-dashoffset:1;fill-opacity:0}
-  31.99%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.53%{stroke-dashoffset:1;fill-opacity:0}
+  21.58%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp8{
-  0%,16.29%{stroke-dashoffset:1;fill-opacity:0}
-  33.15%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.34%{stroke-dashoffset:1;fill-opacity:0}
+  22.39%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp7{
-  0%,15.71%{stroke-dashoffset:1;fill-opacity:0}
-  32.57%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.94%{stroke-dashoffset:1;fill-opacity:0}
+  21.98%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp6{
-  0%,15.13%{stroke-dashoffset:1;fill-opacity:0}
-  31.99%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,10.53%{stroke-dashoffset:1;fill-opacity:0}
+  21.58%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp5{
-  0%,16.29%{stroke-dashoffset:1;fill-opacity:0}
-  33.15%{stroke-dashoffset:0;fill-opacity:0}
-  36.92%{stroke-dashoffset:0;fill-opacity:0}
-  43.31%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.34%{stroke-dashoffset:1;fill-opacity:0}
+  22.39%{stroke-dashoffset:0;fill-opacity:0}
+  21.57%{stroke-dashoffset:0;fill-opacity:0}
+  27.15%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp4{
-  0%,16.51%{stroke-dashoffset:1;fill-opacity:0}
-  33.37%{stroke-dashoffset:0;fill-opacity:0}
-  36.05%{stroke-dashoffset:0;fill-opacity:0}
-  42.44%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.45%{stroke-dashoffset:1;fill-opacity:0}
+  22.50%{stroke-dashoffset:0;fill-opacity:0}
+  20.93%{stroke-dashoffset:0;fill-opacity:0}
+  26.51%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp3{
-  0%,15.93%{stroke-dashoffset:1;fill-opacity:0}
-  32.79%{stroke-dashoffset:0;fill-opacity:0}
-  36.05%{stroke-dashoffset:0;fill-opacity:0}
-  42.44%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.05%{stroke-dashoffset:1;fill-opacity:0}
+  22.09%{stroke-dashoffset:0;fill-opacity:0}
+  20.93%{stroke-dashoffset:0;fill-opacity:0}
+  26.51%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp2{
-  0%,17.09%{stroke-dashoffset:1;fill-opacity:0}
-  33.95%{stroke-dashoffset:0;fill-opacity:0}
-  36.05%{stroke-dashoffset:0;fill-opacity:0}
-  42.44%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.86%{stroke-dashoffset:1;fill-opacity:0}
+  22.91%{stroke-dashoffset:0;fill-opacity:0}
+  20.93%{stroke-dashoffset:0;fill-opacity:0}
+  26.51%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp1{
-  0%,16.51%{stroke-dashoffset:1;fill-opacity:0}
-  33.37%{stroke-dashoffset:0;fill-opacity:0}
-  36.05%{stroke-dashoffset:0;fill-opacity:0}
-  42.44%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.45%{stroke-dashoffset:1;fill-opacity:0}
+  22.50%{stroke-dashoffset:0;fill-opacity:0}
+  20.93%{stroke-dashoffset:0;fill-opacity:0}
+  26.51%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rp0{
-  0%,15.93%{stroke-dashoffset:1;fill-opacity:0}
-  32.79%{stroke-dashoffset:0;fill-opacity:0}
-  36.05%{stroke-dashoffset:0;fill-opacity:0}
-  42.44%{stroke-dashoffset:0;fill-opacity:1}
-  84.88%{stroke-dashoffset:0;fill-opacity:1}
-  94.19%{stroke-dashoffset:0;fill-opacity:0}
+  0%,11.05%{stroke-dashoffset:1;fill-opacity:0}
+  22.09%{stroke-dashoffset:0;fill-opacity:0}
+  20.93%{stroke-dashoffset:0;fill-opacity:0}
+  26.51%{stroke-dashoffset:0;fill-opacity:1}
+  88.37%{stroke-dashoffset:0;fill-opacity:1}
+  97.09%{stroke-dashoffset:0;fill-opacity:0}
   100%{stroke-dashoffset:1;fill-opacity:0}}
 @keyframes rv87-1{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv871{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv86-1{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv861{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv85-1{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv851{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv84-1{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv841{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv83-1{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv831{
-  0%,47.15%{stroke-dashoffset:1;opacity:0}
-  50.64%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.94%{stroke-dashoffset:1;opacity:0}
+  33.43%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv82-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv821{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv81-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv811{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv80-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv801{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv79-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv791{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv78-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv781{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv77-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv771{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv76-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv761{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv75-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv751{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv74-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv741{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv73-1{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv731{
-  0%,46.28%{stroke-dashoffset:1;opacity:0}
-  49.77%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,29.30%{stroke-dashoffset:1;opacity:0}
+  32.79%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv72-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv721{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv71-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv711{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv70-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv701{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv69-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv691{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv68-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv681{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv67-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv671{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv66-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv661{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv65-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv651{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv64-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv641{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv63-1{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv631{
-  0%,45.41%{stroke-dashoffset:1;opacity:0}
-  48.90%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.66%{stroke-dashoffset:1;opacity:0}
+  32.15%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv62-1{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv621{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv61-1{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv611{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv60-1{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv601{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv59-1{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rv591{
-  0%,44.53%{stroke-dashoffset:1;opacity:0}
-  48.02%{stroke-dashoffset:0;opacity:0.28}
-  84.88%{stroke-dashoffset:0;opacity:0.28}
-  94.19%{stroke-dashoffset:0;opacity:0}
+  0%,28.02%{stroke-dashoffset:1;opacity:0}
+  31.51%{stroke-dashoffset:0;opacity:0.28}
+  88.37%{stroke-dashoffset:0;opacity:0.28}
+  97.09%{stroke-dashoffset:0;opacity:0}
   100%{stroke-dashoffset:1;opacity:0}}
 @keyframes rsp{
-  0%,11.63%{stroke-dashoffset:1}
-  25.58%{stroke-dashoffset:0}
-  84.88%{stroke-dashoffset:0}
-  94.19%{stroke-dashoffset:1}
+  0%,9.30%{stroke-dashoffset:1}
+  23.26%{stroke-dashoffset:0}
+  88.37%{stroke-dashoffset:0}
+  97.09%{stroke-dashoffset:1}
   100%{stroke-dashoffset:1}}
+@keyframes rcore{
+  0%,20.93%{opacity:0}
+  25.00%{opacity:1}
+  88.37%{opacity:1}
+  97.09%{opacity:0}
+  100%{opacity:0}}
 .rt0{animation-name:rt0}
 .rt15{animation-name:rt15}
 .rt30{animation-name:rt30}
@@ -1821,6 +1827,7 @@ path{animation-duration:8.6s}
 .rv59{animation-name:rv59}
 .rv591{animation-name:rv591}
 .rsp{animation-name:rsp}
+.rcore{animation-name:rcore}
 @media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
 </style>
 <defs><clipPath id="plateclip"><rect width="1180" height="560" rx="14"/></clipPath></defs>
@@ -1834,14 +1841,14 @@ path{animation-duration:8.6s}
 <text x="70" y="284" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="66" letter-spacing="-0.5" fill="#241E27">Ibtasaam Amjad</text>
 <text x="72" y="330" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#6F6472">CS at FAST-NUCES Islamabad   ·   CTO, Verteon   ·   Rawalpindi, Pakistan</text>
 <line x1="72" y1="366" x2="600" y2="366" stroke="#E2D8D0" stroke-width="1"/>
-<text x="72" y="414" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">1st</text>
-<text x="72" y="436" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">National AI Hackathon, 2026</text>
-<text x="340" y="414" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">CTO</text>
-<text x="340" y="436" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">Verteon, NSTP Hatch 8</text>
-<text x="72" y="498" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">40th</text>
-<text x="72" y="520" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">worldwide, Kaggle</text>
-<text x="340" y="498" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">3.86</text>
-<text x="340" y="520" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">CGPA, Dean's List ×4</text>
+<text x="72" y="402" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">1st</text>
+<text x="72" y="424" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">National AI Hackathon, 2026</text>
+<text x="340" y="402" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">CTO</text>
+<text x="340" y="424" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">Verteon, NSTP Hatch 8</text>
+<text x="72" y="482" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">40th</text>
+<text x="72" y="504" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">worldwide, Kaggle</text>
+<text x="340" y="482" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="31" fill="#B25C7F">3.86</text>
+<text x="340" y="504" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11.5" fill="#6F6472">CGPA, Dean's List ×4</text>
 <g clip-path="url(#plateclip)"><circle class="rg0" cx="876" cy="282" r="233.4" fill="none" stroke="#D6CAC2" stroke-width="1" pathLength="1" stroke-dasharray="1"/>
 <circle class="rg1" cx="876" cy="282" r="225.4" fill="none" stroke="#D6CAC2" stroke-width="0.7" pathLength="1" stroke-dasharray="1"/>
 <path class="rt0" d="M876,48.6 L876,39.6" fill="none" stroke="#D6CAC2" stroke-width="1" pathLength="1" stroke-dasharray="1"/>
@@ -1868,7 +1875,7 @@ path{animation-duration:8.6s}
 <path class="rt315" d="M710.9,116.9 L707.7,113.7" fill="none" stroke="#D6CAC2" stroke-width="0.7" pathLength="1" stroke-dasharray="1"/>
 <path class="rt330" d="M759.3,79.8 L757,75.9" fill="none" stroke="#D6CAC2" stroke-width="0.7" pathLength="1" stroke-dasharray="1"/>
 <path class="rt345" d="M815.6,56.5 L814.4,52.2" fill="none" stroke="#D6CAC2" stroke-width="0.7" pathLength="1" stroke-dasharray="1"/>
-<circle cx="876" cy="282" r="137.3" fill="#B9648A"/>
+<circle class="rcore" cx="876" cy="282" r="137.3" fill="#B9648A" opacity="0"/>
 <path class="rp87" transform="translate(862.8,150.7) rotate(354.3)" d="M0,0 C-38.3,-15.8 -81.5,-47.3 -73.2,-78.8 C-66.5,-103.6 -15.6,-112.6 5.4,-112.6 Q17.9,-107 1.5,-111 C31.6,-112.6 73.2,-101.4 76.5,-74.3 C81.5,-42.8 36.6,-13.5 0,0 Z" pathLength="1" stroke-dasharray="1" fill="url(#pa)" fill-opacity="0" stroke="#8A3E5C" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
 <path class="rn87" transform="translate(862.8,150.7) rotate(354.3)" d="M0,0 C-38.3,-15.8 -81.5,-47.3 -73.2,-78.8 C-66.5,-103.6 -15.6,-112.6 5.4,-112.6 Q17.9,-107 1.5,-111 C31.6,-112.6 73.2,-101.4 76.5,-74.3 C81.5,-42.8 36.6,-13.5 0,0 Z" pathLength="1" stroke-dasharray="0.010 3" fill="none" stroke="#5E2040" stroke-width="4" stroke-linecap="round" opacity="0"/>
 <path class="rp86" transform="translate(789.2,380.5) rotate(221.4)" d="M0,0 C-36.2,-15.6 -77.1,-46.9 -69.3,-78.1 C-63,-102.7 -14.9,-111.6 -2.5,-111.6 Q9.3,-106 0.9,-109.9 C29.9,-111.6 69.3,-100.5 72.4,-73.7 C77.1,-42.4 34.6,-13.4 0,0 Z" pathLength="1" stroke-dasharray="1" fill="url(#pa)" fill-opacity="0" stroke="#8A3E5C" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
