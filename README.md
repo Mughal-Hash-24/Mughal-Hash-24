@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero_light.svg" />
-  <img src="./assets/readme/hero_dark.svg" width="100%" alt="Muhammad Ibtasaam Amjad. CS at FAST-NUCES Islamabad, CTO at Verteon, Rawalpindi. First place National AI Hackathon, 40th worldwide on Kaggle, 3.86 CGPA. A machine-drawn rose turns inside three orbits of particles." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/hero_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/hero_light.svg" />
+  <img src="./assets/plates/hero_dark.svg" width="100%" alt="Muhammad Ibtasaam Amjad. CS at FAST-NUCES Islamabad, CTO at Verteon, Rawalpindi. First place National AI Hackathon, 40th worldwide on Kaggle, 3.86 CGPA. A machine-drawn rose turns inside three orbits of particles." />
 </picture>
 
 <p align="center">
@@ -9,15 +9,15 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/quote_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/quote_light.svg" />
-  <img src="./assets/readme/quote_dark.svg" width="100%" alt="Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them. Frank Herbert, Dune, Appendix II." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/quote_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/quote_light.svg" />
+  <img src="./assets/plates/quote_dark.svg" width="100%" alt="Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them. Frank Herbert, Dune, Appendix II." />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_work_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_work_light.svg" />
-  <img src="./assets/readme/sec_work_dark.svg" width="100%" alt="01 Work" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/sec_work_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/sec_work_light.svg" />
+  <img src="./assets/plates/sec_work_dark.svg" width="100%" alt="01 Work" />
 </picture>
 
 ### [Pokayoke](https://github.com/Mughal-Hash-24/pokayoke)
@@ -58,43 +58,43 @@ News knowledge-graph research. Fine-tuned DeBERTa-v3 NER at **93.68% micro F1 on
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_domains_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_domains_light.svg" />
-  <img src="./assets/readme/sec_domains_dark.svg" width="100%" alt="02 Domains" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/sec_domains_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/sec_domains_light.svg" />
+  <img src="./assets/plates/sec_domains_dark.svg" width="100%" alt="02 Domains" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/domains_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/domains_light.svg" />
-  <img src="./assets/readme/domains_dark.svg" width="100%" alt="Five domains orbiting one habit. Agentic systems: MCP, planning, tool safety. Knowledge: vaults, index, cited RAG. NLP research: code-mixed LID, NER. Systems: Rust, ESP32, x86 MASM. Graph and classical AI: resolution, CSP, search. The habit: model the problem, then check the model." />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_stack_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_stack_light.svg" />
-  <img src="./assets/readme/sec_stack_dark.svg" width="100%" alt="03 Stack" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stack_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/stack_light.svg" />
-  <img src="./assets/readme/stack_dark.svg" width="100%" alt="Languages: Python, Java, C, C++, Rust, TypeScript, JavaScript, Solidity, x86 Assembly, SQL. Agents: MCP, LangChain, n8n, Google ADK, FastAPI, Spring Boot. Data and ML: PyTorch, spaCy, scikit-learn, sentence-transformers, MediaPipe, FAISS, Neo4j GDS, Redis. Systems: Tauri, Docker, Linux, ESP32, SFML, POSIX IPC, GCP." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/domains_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/domains_light.svg" />
+  <img src="./assets/plates/domains_dark.svg" width="100%" alt="Five domains orbiting one habit. Agentic systems: MCP, planning, tool safety. Knowledge: vaults, index, cited RAG. NLP research: code-mixed LID, NER. Systems: Rust, ESP32, x86 MASM. Graph and classical AI: resolution, CSP, search. The habit: model the problem, then check the model." />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/sec_record_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/sec_record_light.svg" />
-  <img src="./assets/readme/sec_record_dark.svg" width="100%" alt="04 Record" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/sec_stack_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/sec_stack_light.svg" />
+  <img src="./assets/plates/sec_stack_dark.svg" width="100%" alt="03 Stack" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/record_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme/record_light.svg" />
-  <img src="./assets/readme/record_dark.svg" width="100%" alt="Honours: Dean's List four times, Silver Medal, first place National AI Hackathon, first place GridGuard, second place Islamabad Regional, ICPC 21st nationally. Teaching: Programming Fundamentals, Linear Algebra, Object-Oriented Programming, Expository Writing, Arts and Humanities. Leading: Technical Projects Officer at FAST AI Society, Tech Wing Head, Buddy Wing Chairperson, Vice President Internals, Vice President Externals." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/stack_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/stack_light.svg" />
+  <img src="./assets/plates/stack_dark.svg" width="100%" alt="Languages: Python, Java, C, C++, Rust, TypeScript, JavaScript, Solidity, x86 Assembly, SQL. Agents: MCP, LangChain, n8n, Google ADK, FastAPI, Spring Boot. Data and ML: PyTorch, spaCy, scikit-learn, sentence-transformers, MediaPipe, FAISS, Neo4j GDS, Redis. Systems: Tauri, Docker, Linux, ESP32, SFML, POSIX IPC, GCP." />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/sec_record_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/sec_record_light.svg" />
+  <img src="./assets/plates/sec_record_dark.svg" width="100%" alt="04 Record" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plates/record_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/plates/record_light.svg" />
+  <img src="./assets/plates/record_dark.svg" width="100%" alt="Honours: Dean's List four times, Silver Medal, first place National AI Hackathon, first place GridGuard, second place Islamabad Regional, ICPC 21st nationally. Teaching: Programming Fundamentals, Linear Algebra, Object-Oriented Programming, Expository Writing, Arts and Humanities. Leading: Technical Projects Officer at FAST AI Society, Tech Wing Head, Buddy Wing Chairperson, Vice President Internals, Vice President Externals." />
 </picture>
 
 <details>
