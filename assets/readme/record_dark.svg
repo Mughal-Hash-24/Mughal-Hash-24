@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 300" width="1160" height="300" role="img" aria-labelledby="tt dd">
+<title id="tt">Record</title>
+<desc id="dd">Honours, teaching posts and leadership roles.</desc>
+<style>
+path,circle,g,rect,text{animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:7.6s}
+
+
+@media (prefers-reduced-motion: reduce){*{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+</style>
+<rect width="1160" height="300" fill="#08070C"/>
+<rect x="0.5" y="0.5" width="1159" height="299" fill="none" stroke="#241E30"/>
+<text x="36" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#E9A6BE">HONOURS</text>
+<text x="36" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#F1ECF5">Dean's List ×4 · Silver Medal · 1st National AI Hackathon · 1st GridGuard · 2nd Islamabad Regional ·</text>
+<text x="36" y="115" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#F1ECF5">ICPC 21st nationally</text>
+<line x1="36" y1="132" x2="1124" y2="132" stroke="#151120"/>
+<text x="36" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#E9A6BE">TEACHING</text>
+<text x="36" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#F1ECF5">Programming Fundamentals · Linear Algebra · OOP · Expository Writing · Arts and Humanities</text>
+<line x1="36" y1="210" x2="1124" y2="210" stroke="#151120"/>
+<text x="36" y="230" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#E9A6BE">LEADING</text>
+<text x="36" y="254" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#F1ECF5">Technical Projects Officer, FAST AI Society · Tech Wing Head · Buddy Wing Chairperson · VP Internals ·</text>
+<text x="36" y="271" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#F1ECF5">VP Externals</text>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.82" numOctaves="2" stitchTiles="stitch"><animate attributeName="seed" values="0;7;0" dur="0.9s" repeatCount="indefinite"/></feTurbulence><feColorMatrix type="saturate" values="0"/></filter><rect width="1160" height="300" filter="url(#grain)" opacity="0.04" fill="#808080"/>
+</svg>

@@ -1,77 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 282" width="1180" height="282" role="img" aria-labelledby="tt dd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 316" width="1160" height="316" role="img" aria-labelledby="tt dd">
 <title id="tt">Stack</title>
-<desc id="dd">Grouped technologies.</desc>
-<defs></defs>
-<style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
-path,circle{animation-duration:8.6s}
-
-
-@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+<desc id="dd">Languages, agent frameworks, data and ML, systems.</desc>
+<style>
+path,circle,g,rect,text{animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:7.6s}
+.rowhl{animation-name:rowhl}
+@keyframes rowhl{0%{transform:translateY(0);opacity:0}6%{opacity:1}90%{transform:translateY(248px);opacity:0}100%{transform:translateY(248px);opacity:0}}.rowhl{animation:rowhl 5.2s linear infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
 </style>
-<rect x="0.5" y="0.5" width="1179" height="281" rx="10" fill="none" stroke="#E2D8D0"/>
-<text x="34" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.2" fill="#B25C7F">LANGUAGES</text>
-<text x="192" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Python</text>
-<circle cx="255" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="268" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Java</text>
-<circle cx="315.1" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="328.1" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">C</text>
-<circle cx="351.1" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="364.1" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">C++</text>
-<circle cx="403.1" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="416.1" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Rust</text>
-<circle cx="463.1" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="476.1" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">TypeScript</text>
-<circle cx="571.2" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="584.2" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">JavaScript</text>
-<circle cx="679.3" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="692.3" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Solidity</text>
-<circle cx="771.4" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="784.4" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">x86 Assembly</text>
-<circle cx="895.5" cy="46" r="1.7" fill="#9A8F9A"/>
-<text x="908.5" y="49.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">SQL</text>
-<line x1="34" y1="78" x2="1146" y2="78" stroke="#EFE8E1" stroke-width="1"/>
-<text x="34" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.2" fill="#B25C7F">AGENTS</text>
-<text x="192" y="107.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">MCP</text>
-<circle cx="231" cy="104" r="1.7" fill="#9A8F9A"/>
-<text x="244" y="107.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">LangChain</text>
-<circle cx="331.1" cy="104" r="1.7" fill="#9A8F9A"/>
-<text x="344.1" y="107.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">n8n</text>
-<circle cx="383.1" cy="104" r="1.7" fill="#9A8F9A"/>
-<text x="396.1" y="107.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Google ADK</text>
-<circle cx="491.2" cy="104" r="1.7" fill="#9A8F9A"/>
-<text x="504.2" y="107.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">FastAPI</text>
-<circle cx="575.3" cy="104" r="1.7" fill="#9A8F9A"/>
-<text x="588.3" y="107.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Spring Boot</text>
-<line x1="34" y1="136" x2="1146" y2="136" stroke="#EFE8E1" stroke-width="1"/>
-<text x="34" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.2" fill="#B25C7F">DATA + ML</text>
-<text x="192" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">PyTorch</text>
-<circle cx="263.1" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="276.1" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">spaCy</text>
-<circle cx="331.1" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="344.1" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">scikit-learn</text>
-<circle cx="455.2" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="468.2" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">sentence-transformers</text>
-<circle cx="651.4" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="664.4" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">MediaPipe</text>
-<circle cx="751.4" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="764.4" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">FAISS</text>
-<circle cx="819.5" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="832.5" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Neo4j GDS</text>
-<circle cx="919.5" cy="162" r="1.7" fill="#9A8F9A"/>
-<text x="932.5" y="165.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Redis</text>
-<line x1="34" y1="194" x2="1146" y2="194" stroke="#EFE8E1" stroke-width="1"/>
-<text x="34" y="224" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.2" fill="#B25C7F">SYSTEMS</text>
-<text x="192" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Tauri</text>
-<circle cx="247" cy="220" r="1.7" fill="#9A8F9A"/>
-<text x="260" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Docker</text>
-<circle cx="323.1" cy="220" r="1.7" fill="#9A8F9A"/>
-<text x="336.1" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">Linux</text>
-<circle cx="391.1" cy="220" r="1.7" fill="#9A8F9A"/>
-<text x="404.1" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">ESP32</text>
-<circle cx="459.2" cy="220" r="1.7" fill="#9A8F9A"/>
-<text x="472.2" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">SFML</text>
-<circle cx="519.2" cy="220" r="1.7" fill="#9A8F9A"/>
-<text x="532.2" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">POSIX IPC</text>
-<circle cx="619.3" cy="220" r="1.7" fill="#9A8F9A"/>
-<text x="632.3" y="223.5" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#241E27">GCP</text>
+<rect width="1160" height="316" fill="#FAF7F3"/>
+<rect x="0.5" y="0.5" width="1159" height="315" fill="none" stroke="#E1D7CF"/>
+<text x="34" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.4" fill="#B25C7F">LANGUAGES</text>
+<text x="184" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Python</text>
+<circle cx="239.1" cy="54" r="1.6" fill="#9B909C"/>
+<text x="250.1" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Java</text>
+<circle cx="291.2" cy="54" r="1.6" fill="#9B909C"/>
+<text x="302.2" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">C</text>
+<circle cx="322.2" cy="54" r="1.6" fill="#9B909C"/>
+<text x="333.2" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">C++</text>
+<circle cx="367.3" cy="54" r="1.6" fill="#9B909C"/>
+<text x="378.3" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Rust</text>
+<circle cx="419.4" cy="54" r="1.6" fill="#9B909C"/>
+<text x="430.4" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">TypeScript</text>
+<circle cx="513.6" cy="54" r="1.6" fill="#9B909C"/>
+<text x="524.6" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">JavaScript</text>
+<circle cx="607.8" cy="54" r="1.6" fill="#9B909C"/>
+<text x="618.8" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Solidity</text>
+<circle cx="687.9" cy="54" r="1.6" fill="#9B909C"/>
+<text x="698.9" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">x86 Assembly</text>
+<circle cx="796.2" cy="54" r="1.6" fill="#9B909C"/>
+<text x="807.2" y="57.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">SQL</text>
+<line x1="34" y1="88" x2="1126" y2="88" stroke="#EEE6DE"/>
+<text x="34" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.4" fill="#B25C7F">AGENTS</text>
+<text x="184" y="119.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">MCP</text>
+<circle cx="218.1" cy="116" r="1.6" fill="#9B909C"/>
+<text x="229.1" y="119.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">LangChain</text>
+<circle cx="305.2" cy="116" r="1.6" fill="#9B909C"/>
+<text x="316.2" y="119.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">n8n</text>
+<circle cx="350.3" cy="116" r="1.6" fill="#9B909C"/>
+<text x="361.3" y="119.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Google ADK</text>
+<circle cx="444.5" cy="116" r="1.6" fill="#9B909C"/>
+<text x="455.5" y="119.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">FastAPI</text>
+<circle cx="517.6" cy="116" r="1.6" fill="#9B909C"/>
+<text x="528.6" y="119.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Spring Boot</text>
+<line x1="34" y1="150" x2="1126" y2="150" stroke="#EEE6DE"/>
+<text x="34" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.4" fill="#B25C7F">DATA + ML</text>
+<text x="184" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">PyTorch</text>
+<circle cx="246.1" cy="178" r="1.6" fill="#9B909C"/>
+<text x="257.1" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">spaCy</text>
+<circle cx="305.2" cy="178" r="1.6" fill="#9B909C"/>
+<text x="316.2" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">scikit-learn</text>
+<circle cx="413.5" cy="178" r="1.6" fill="#9B909C"/>
+<text x="424.5" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">sentence-transformers</text>
+<circle cx="584.9" cy="178" r="1.6" fill="#9B909C"/>
+<text x="595.9" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">MediaPipe</text>
+<circle cx="672.1" cy="178" r="1.6" fill="#9B909C"/>
+<text x="683.1" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">FAISS</text>
+<circle cx="731.2" cy="178" r="1.6" fill="#9B909C"/>
+<text x="742.2" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Neo4j GDS</text>
+<circle cx="818.4" cy="178" r="1.6" fill="#9B909C"/>
+<text x="829.4" y="181.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Redis</text>
+<line x1="34" y1="212" x2="1126" y2="212" stroke="#EEE6DE"/>
+<text x="34" y="244" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.4" fill="#B25C7F">SYSTEMS</text>
+<text x="184" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Tauri</text>
+<circle cx="232.1" cy="240" r="1.6" fill="#9B909C"/>
+<text x="243.1" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Docker</text>
+<circle cx="298.2" cy="240" r="1.6" fill="#9B909C"/>
+<text x="309.2" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">Linux</text>
+<circle cx="357.3" cy="240" r="1.6" fill="#9B909C"/>
+<text x="368.3" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">ESP32</text>
+<circle cx="416.4" cy="240" r="1.6" fill="#9B909C"/>
+<text x="427.4" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">SFML</text>
+<circle cx="468.5" cy="240" r="1.6" fill="#9B909C"/>
+<text x="479.5" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">POSIX IPC</text>
+<circle cx="555.7" cy="240" r="1.6" fill="#9B909C"/>
+<text x="566.7" y="243.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#16111A">GCP</text>
+<defs><linearGradient id="row" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B25C7F" stop-opacity="0"/><stop offset="0.5" stop-color="#B25C7F" stop-opacity="0.5"/><stop offset="1" stop-color="#B25C7F" stop-opacity="0"/></linearGradient></defs>
+<rect class="rowhl" x="0" y="42" width="1160" height="1" fill="url(#row)"/>
 </svg>

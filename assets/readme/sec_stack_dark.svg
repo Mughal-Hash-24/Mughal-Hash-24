@@ -1,16 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 120" width="1180" height="120" role="img" aria-labelledby="tt dd">
-<title id="tt">STACK</title>
-<desc id="dd">one set, one weight</desc>
-<defs></defs>
-<style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
-path,circle{animation-duration:8.6s}
-
-
-@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 152" width="1160" height="152" role="img" aria-labelledby="tt dd">
+<title id="tt">Stack</title>
+<desc id="dd">THIRTY TOOLS</desc>
+<style>
+path,circle,g,rect,text{animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:7.6s}
+.shine627623{animation-name:shine627623}
+.shine92320{animation-name:shine92320}
+.mq272269{animation-name:mq272269}
+.shine627623{animation:shine627623 5.6s cubic-bezier(.45,0,.55,1) infinite;animation-delay:0.0s}@keyframes shine627623{0%{transform:translateX(0)}72%{transform:translateX(588px)}100%{transform:translateX(588px)}}
+.shine92320{animation:shine92320 6.8s cubic-bezier(.45,0,.55,1) infinite;animation-delay:0.0s}@keyframes shine92320{0%{transform:translateX(0)}72%{transform:translateX(1148px)}100%{transform:translateX(1148px)}}
+.mq272269{animation:mq272269 44s linear infinite}@keyframes mq272269{from{transform:translateX(0)}to{transform:translateX(-190.7px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
 </style>
-<rect width="1180" height="120" rx="0" fill="none"/>
-<text x="0" y="86" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="62" fill="#E9A6BE" opacity="0.28">06</text>
-<text x="96" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="5.2" fill="#EDE7F0">STACK</text>
-<text x="96" y="94" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#948AA0">one set, one weight</text>
-<line x1="0" y1="119" x2="1180" y2="119" stroke="#272134" stroke-width="1"/>
+<rect width="1160" height="152" fill="#08070C"/>
+<text x="8" y="126" font-family="Georgia,'Times New Roman',serif" font-size="132" fill="none" stroke="#E9A6BE" stroke-width="1.3" opacity="0.55">03</text>
+<defs><clipPath id="shine627623"><rect class="shine627623" x="-182" y="-19.200000000000017" width="190" height="191.4"/></clipPath></defs>
+<text x="148" y="92" font-family="Georgia,'Times New Roman',serif" font-size="50" fill="#F1ECF5" letter-spacing="-0.8">Stack</text><g clip-path="url(#shine92320)"><text x="148" y="92" font-family="Georgia,'Times New Roman',serif" font-size="50" fill="#FFDCE8" letter-spacing="-0.8">Stack</text></g>
+<defs><clipPath id="shine92320"><rect class="shine92320" x="-42" y="36.99999999999999" width="190" height="72.5"/></clipPath></defs>
+<text x="1120" y="80" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="3.2" fill="#675D73">THIRTY TOOLS</text>
+<text x="1120" y="102" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.2" fill="#241E30">type · test · deploy</text>
+<line x1="0" y1="126" x2="1160" y2="126" stroke="#241E30"/>
+<defs><clipPath id="sc"><rect x="0" y="132" width="1160" height="20"/></clipPath></defs>
+<g clip-path="url(#sc)"><text class="mq272269" x="0" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#675D73" letter-spacing="2.4"><tspan x="0">type · test · deploy   ·   </tspan><tspan x="190.7">type · test · deploy   ·   </tspan><tspan x="381.3">type · test · deploy   ·   </tspan><tspan x="572">type · test · deploy   ·   </tspan><tspan x="762.6">type · test · deploy   ·   </tspan><tspan x="953.2">type · test · deploy   ·   </tspan><tspan x="1143.9">type · test · deploy   ·   </tspan><tspan x="1334.5">type · test · deploy   ·   </tspan><tspan x="1525.2">type · test · deploy   ·   </tspan><tspan x="1715.9">type · test · deploy   ·   </tspan></text></g>
 </svg>

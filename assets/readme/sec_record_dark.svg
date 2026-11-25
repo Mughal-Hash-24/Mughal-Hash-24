@@ -1,16 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 120" width="1180" height="120" role="img" aria-labelledby="tt dd">
-<title id="tt">RECORD</title>
-<desc id="dd">honours, teaching, everything else</desc>
-<defs></defs>
-<style>path,circle{animation-timing-function:linear;animation-iteration-count:infinite}
-path,circle{animation-duration:8.6s}
-
-
-@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 152" width="1160" height="152" role="img" aria-labelledby="tt dd">
+<title id="tt">Record</title>
+<desc id="dd">HONOURS AND TEACHING</desc>
+<style>
+path,circle,g,rect,text{animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:7.6s}
+.shine245863{animation-name:shine245863}
+.shine80050{animation-name:shine80050}
+.mq315124{animation-name:mq315124}
+.shine245863{animation:shine245863 5.6s cubic-bezier(.45,0,.55,1) infinite;animation-delay:0.0s}@keyframes shine245863{0%{transform:translateX(0)}72%{transform:translateX(588px)}100%{transform:translateX(588px)}}
+.shine80050{animation:shine80050 6.8s cubic-bezier(.45,0,.55,1) infinite;animation-delay:0.0s}@keyframes shine80050{0%{transform:translateX(0)}72%{transform:translateX(1148px)}100%{transform:translateX(1148px)}}
+.mq315124{animation:mq315124 44s linear infinite}@keyframes mq315124{from{transform:translateX(0)}to{transform:translateX(-183.5px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
 </style>
-<rect width="1180" height="120" rx="0" fill="none"/>
-<text x="0" y="86" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="62" fill="#E9A6BE" opacity="0.28">07</text>
-<text x="96" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="5.2" fill="#EDE7F0">RECORD</text>
-<text x="96" y="94" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#948AA0">honours, teaching, everything else</text>
-<line x1="0" y1="119" x2="1180" y2="119" stroke="#272134" stroke-width="1"/>
+<rect width="1160" height="152" fill="#08070C"/>
+<text x="8" y="126" font-family="Georgia,'Times New Roman',serif" font-size="132" fill="none" stroke="#E9A6BE" stroke-width="1.3" opacity="0.55">04</text>
+<defs><clipPath id="shine245863"><rect class="shine245863" x="-182" y="-19.200000000000017" width="190" height="191.4"/></clipPath></defs>
+<text x="148" y="92" font-family="Georgia,'Times New Roman',serif" font-size="50" fill="#F1ECF5" letter-spacing="-0.8">Record</text><g clip-path="url(#shine80050)"><text x="148" y="92" font-family="Georgia,'Times New Roman',serif" font-size="50" fill="#FFDCE8" letter-spacing="-0.8">Record</text></g>
+<defs><clipPath id="shine80050"><rect class="shine80050" x="-42" y="36.99999999999999" width="190" height="72.5"/></clipPath></defs>
+<text x="1120" y="80" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="3.2" fill="#675D73">HONOURS AND TEACHING</text>
+<text x="1120" y="102" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="2.2" fill="#241E30">earn · teach · lead</text>
+<line x1="0" y1="126" x2="1160" y2="126" stroke="#241E30"/>
+<defs><clipPath id="sc"><rect x="0" y="132" width="1160" height="20"/></clipPath></defs>
+<g clip-path="url(#sc)"><text class="mq315124" x="0" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#675D73" letter-spacing="2.4"><tspan x="0">earn · teach · lead   ·   </tspan><tspan x="183.5">earn · teach · lead   ·   </tspan><tspan x="367">earn · teach · lead   ·   </tspan><tspan x="550.5">earn · teach · lead   ·   </tspan><tspan x="734">earn · teach · lead   ·   </tspan><tspan x="917.5">earn · teach · lead   ·   </tspan><tspan x="1101">earn · teach · lead   ·   </tspan><tspan x="1284.5">earn · teach · lead   ·   </tspan><tspan x="1468">earn · teach · lead   ·   </tspan><tspan x="1651.5">earn · teach · lead   ·   </tspan></text></g>
 </svg>

@@ -1,65 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 486" width="1180" height="486" role="img" aria-labelledby="tt dd"><title id="tt">Five domains of work</title><desc id="dd">Agentic systems, knowledge and retrieval, NLP research, systems and embedded, graph and classical AI, around a core habit: model the problem, then check the model.</desc><style>path,circle{animation-duration:9.0s;animation-iteration-count:infinite;animation-timing-function:linear}
-@keyframes sp0{
-  0%,0.25s%{stroke-dashoffset:1;opacity:0}
-  0.30%{opacity:1}
-  18%{stroke-dashoffset:0;opacity:1}
-  100%{stroke-dashoffset:0;opacity:1}}
-@keyframes sp1{
-  0%,0.34s%{stroke-dashoffset:1;opacity:0}
-  0.30%{opacity:1}
-  27%{stroke-dashoffset:0;opacity:1}
-  100%{stroke-dashoffset:0;opacity:1}}
-@keyframes sp2{
-  0%,0.43s%{stroke-dashoffset:1;opacity:0}
-  0.30%{opacity:1}
-  36%{stroke-dashoffset:0;opacity:1}
-  100%{stroke-dashoffset:0;opacity:1}}
-@keyframes sp3{
-  0%,0.52s%{stroke-dashoffset:1;opacity:0}
-  0.30%{opacity:1}
-  45%{stroke-dashoffset:0;opacity:1}
-  100%{stroke-dashoffset:0;opacity:1}}
-@keyframes sp4{
-  0%,0.61s%{stroke-dashoffset:1;opacity:0}
-  0.30%{opacity:1}
-  54%{stroke-dashoffset:0;opacity:1}
-  100%{stroke-dashoffset:0;opacity:1}}
-@keyframes core{
-  0%,2%{stroke-dashoffset:1;opacity:0} 4%{opacity:1}
-  40%{stroke-dashoffset:0;opacity:1} 100%{stroke-dashoffset:0;opacity:1}}
-.sp0{animation-name:sp0}.sp1{animation-name:sp1}.sp2{animation-name:sp2}.sp3{animation-name:sp3}.sp4{animation-name:sp4}.core{animation-name:core}@media (prefers-reduced-motion: reduce){path,circle{animation:none !important}stroke-dashoffset:0 !important;opacity:1 !important}}</style><rect width="1180" height="486" rx="12" fill="#F5F0EA"/>
-<rect x="0.5" y="0.5" width="1179" height="485" rx="11.5" fill="none" stroke="#E2D8D0"/>
-<circle cx="590" cy="244" r="158" fill="none" stroke="#E0D6CE" stroke-width="1" stroke-dasharray="2 6"/>
-<circle cx="590" cy="244" r="98" fill="none" stroke="#E0D6CE" stroke-width="1" stroke-dasharray="2 6"/>
-<path class="sp0" d="M590,244 L590,86" fill="none" stroke="#E0D6CE" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
-<path class="sp1" d="M590,244 L722.2,201" fill="none" stroke="#E0D6CE" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
-<path class="sp2" d="M590,244 L679.2,366.7" fill="none" stroke="#E0D6CE" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
-<path class="sp3" d="M590,244 L508.3,356.5" fill="none" stroke="#E0D6CE" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
-<path class="sp4" d="M590,244 L445.7,197.1" fill="none" stroke="#E0D6CE" stroke-width="1.2" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
-<circle class="nd0" cx="590" cy="86" r="5.5" fill="#B25C7F" opacity="0"/>
-<circle cx="590" cy="86" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.35"/>
-<text x="590" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#241E27">AGENTIC SYSTEMS</text>
-<text x="590" y="69" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#6F6472">MCP orchestration · planning · tool safety</text>
-<circle class="nd1" cx="722.2" cy="201" r="5.5" fill="#B25C7F" opacity="0"/>
-<circle cx="722.2" cy="201" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.35"/>
-<text x="744.2" y="198" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#241E27">KNOWLEDGE</text>
-<text x="744.2" y="216" text-anchor="start" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#6F6472">vaults as memory · semantic index · cited RAG</text>
-<circle class="nd2" cx="679.2" cy="366.7" r="5.5" fill="#B25C7F" opacity="0"/>
-<circle cx="679.2" cy="366.7" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.35"/>
-<text x="701.2" y="363.7" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#241E27">NLP RESEARCH</text>
-<text x="701.2" y="381.7" text-anchor="start" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#6F6472">code-mixed LID · NER · entity resolution</text>
-<circle class="nd3" cx="508.3" cy="356.5" r="5.5" fill="#B25C7F" opacity="0"/>
-<circle cx="508.3" cy="356.5" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.35"/>
-<text x="486.3" y="353.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#241E27">SYSTEMS</text>
-<text x="486.3" y="371.5" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#6F6472">Rust · Tauri · ESP32 · x86 MASM · POSIX IPC</text>
-<circle class="nd4" cx="445.7" cy="197.1" r="5.5" fill="#B25C7F" opacity="0"/>
-<circle cx="445.7" cy="197.1" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.35"/>
-<text x="423.7" y="194.1" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#241E27">GRAPH + CLASSICAL AI</text>
-<text x="423.7" y="212.1" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" fill="#6F6472">resolution at scale · CSP · genetic search</text>
-<circle cx="590" cy="244" r="70" fill="none" stroke="#8A3E5C" stroke-width="1" opacity="0.5"/>
-<circle cx="590" cy="244" r="64" fill="#F5F0EA" opacity="1"/>
-<text x="590" y="232" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="10.5" fill="#B25C7F" letter-spacing="1.8">THE HABIT</text>
-<text x="590" y="251" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="13" fill="#241E27" letter-spacing="0">model the problem,</text>
-<text x="590" y="270" text-anchor="middle" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="13" fill="#241E27" letter-spacing="0">then check the model</text>
-<circle class="core" cx="590" cy="244" r="70" fill="none" stroke="#B25C7F" stroke-width="1.6" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 500" width="1160" height="500" role="img" aria-labelledby="tt dd">
+<title id="tt">Domains</title>
+<desc id="dd">Five domains of work orbiting one habit: agentic systems, knowledge, NLP research, systems, graph and classical AI.</desc>
+<style>
+path,circle,g,rect,text{animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:7.6s}
+.ob911329{animation-name:ob911329}
+.ob572404{animation-name:ob572404}
+.sp0{animation-name:sp0}
+.pk0{animation-name:pk0}
+.sp1{animation-name:sp1}
+.pk1{animation-name:pk1}
+.sp2{animation-name:sp2}
+.pk2{animation-name:pk2}
+.sp3{animation-name:sp3}
+.pk3{animation-name:pk3}
+.sp4{animation-name:sp4}
+.pk4{animation-name:pk4}
+.ob871526{animation-name:ob871526}
+.ob911329{animation:ob911329 46s linear infinite}@keyframes ob911329{to{transform:rotate(360deg)}}
+.ob572404{animation:ob572404 32s linear infinite}@keyframes ob572404{to{transform:rotate(-360deg)}}
+@keyframes sp0{0%{stroke-dashoffset:1}28%,72%{stroke-dashoffset:0}86%{stroke-dashoffset:1}100%{stroke-dashoffset:1}}
+@keyframes pk0{0%,10%{transform:translate(0,0);opacity:0}14%{opacity:1}40%{transform:translate(0px,-186px);opacity:0}100%{transform:translate(0px,-186px);opacity:0}}
+@keyframes sp1{0%{stroke-dashoffset:1}33%,72%{stroke-dashoffset:0}86%{stroke-dashoffset:1}100%{stroke-dashoffset:1}}
+@keyframes pk1{0%,14%{transform:translate(0,0);opacity:0}18%{opacity:1}45%{transform:translate(176.9px,-57.5px);opacity:0}100%{transform:translate(176.9px,-57.5px);opacity:0}}
+@keyframes sp2{0%{stroke-dashoffset:1}38%,72%{stroke-dashoffset:0}86%{stroke-dashoffset:1}100%{stroke-dashoffset:1}}
+@keyframes pk2{0%,18%{transform:translate(0,0);opacity:0}22%{opacity:1}50%{transform:translate(109.3px,150.5px);opacity:0}100%{transform:translate(109.3px,150.5px);opacity:0}}
+@keyframes sp3{0%{stroke-dashoffset:1}43%,72%{stroke-dashoffset:0}86%{stroke-dashoffset:1}100%{stroke-dashoffset:1}}
+@keyframes pk3{0%,22%{transform:translate(0,0);opacity:0}26%{opacity:1}55%{transform:translate(-109.3px,150.5px);opacity:0}100%{transform:translate(-109.3px,150.5px);opacity:0}}
+@keyframes sp4{0%{stroke-dashoffset:1}48%,72%{stroke-dashoffset:0}86%{stroke-dashoffset:1}100%{stroke-dashoffset:1}}
+@keyframes pk4{0%,26%{transform:translate(0,0);opacity:0}30%{opacity:1}60%{transform:translate(-176.9px,-57.5px);opacity:0}100%{transform:translate(-176.9px,-57.5px);opacity:0}}
+.ob871526{animation:ob871526 14s linear infinite}@keyframes ob871526{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}stroke-dashoffset:0 !important;fill-opacity:1 !important;opacity:1 !important}}
+</style>
+<rect width="1160" height="500" fill="#FAF7F3"/>
+<rect x="0.5" y="0.5" width="1159" height="499" fill="none" stroke="#E1D7CF"/>
+<g class="ob911329" style="transform-origin:580px 248px"><circle cx="580" cy="248" r="186" fill="none" stroke="#E1D7CF" stroke-width="1" stroke-dasharray="2 7" opacity="0.4"/><circle cx="766" cy="248" r="1.2" fill="#E1D7CF" opacity="1"/><circle cx="487" cy="409.1" r="0.9" fill="#E1D7CF" opacity="1"/><circle cx="487" cy="86.9" r="1.1" fill="#E1D7CF" opacity="1"/></g>
+<g class="ob572404" style="transform-origin:580px 248px"><circle cx="580" cy="248" r="122.8" fill="none" stroke="#E1D7CF" stroke-width="1" stroke-dasharray="1 6" opacity="0.4"/><circle cx="702.8" cy="248" r="1.2" fill="#E1D7CF" opacity="1"/><circle cx="518.6" cy="354.3" r="0.9" fill="#E1D7CF" opacity="1"/><circle cx="518.6" cy="141.7" r="1.1" fill="#E1D7CF" opacity="1"/></g>
+<line class="sp0" x1="580" y1="248" x2="580" y2="62" stroke="#E1D7CF" stroke-width="1.1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0"/>
+<circle class="pk0" cx="580" cy="248" r="2.6" fill="#B25C7F"/>
+<circle cx="580" cy="62" r="4.6" fill="#B25C7F"/>
+<circle cx="580" cy="62" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.3"/>
+<text x="580" y="30" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#16111A">AGENTIC SYSTEMS</text>
+<text x="580" y="46" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#655A6C">MCP · planning · tool safety</text>
+<line class="sp1" x1="580" y1="248" x2="756.9" y2="190.5" stroke="#E1D7CF" stroke-width="1.1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0"/>
+<circle class="pk1" cx="580" cy="248" r="2.6" fill="#B25C7F"/>
+<circle cx="756.9" cy="190.5" r="4.6" fill="#B25C7F"/>
+<circle cx="756.9" cy="190.5" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.3"/>
+<text x="776.9" y="188.5" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#16111A">KNOWLEDGE</text>
+<text x="776.9" y="205.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#655A6C">vaults · index · cited RAG</text>
+<line class="sp2" x1="580" y1="248" x2="689.3" y2="398.5" stroke="#E1D7CF" stroke-width="1.1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0"/>
+<circle class="pk2" cx="580" cy="248" r="2.6" fill="#B25C7F"/>
+<circle cx="689.3" cy="398.5" r="4.6" fill="#B25C7F"/>
+<circle cx="689.3" cy="398.5" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.3"/>
+<text x="709.3" y="396.5" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#16111A">NLP RESEARCH</text>
+<text x="709.3" y="413.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#655A6C">code-mixed LID · NER</text>
+<line class="sp3" x1="580" y1="248" x2="470.7" y2="398.5" stroke="#E1D7CF" stroke-width="1.1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0"/>
+<circle class="pk3" cx="580" cy="248" r="2.6" fill="#B25C7F"/>
+<circle cx="470.7" cy="398.5" r="4.6" fill="#B25C7F"/>
+<circle cx="470.7" cy="398.5" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.3"/>
+<text x="450.7" y="396.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#16111A">SYSTEMS</text>
+<text x="450.7" y="413.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#655A6C">Rust · ESP32 · x86 MASM</text>
+<line class="sp4" x1="580" y1="248" x2="403.1" y2="190.5" stroke="#E1D7CF" stroke-width="1.1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0"/>
+<circle class="pk4" cx="580" cy="248" r="2.6" fill="#B25C7F"/>
+<circle cx="403.1" cy="190.5" r="4.6" fill="#B25C7F"/>
+<circle cx="403.1" cy="190.5" r="13" fill="none" stroke="#B25C7F" stroke-width="0.8" opacity="0.3"/>
+<text x="383.1" y="188.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6" fill="#16111A">GRAPH + CLASSICAL AI</text>
+<text x="383.1" y="205.5" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#655A6C">resolution · CSP · search</text>
+<circle cx="580.0" cy="248" r="58" fill="#FAF7F3" stroke="#8A3E5C" stroke-width="1" opacity="0.9"/>
+<text x="580.0" y="240" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="2.4" fill="#B25C7F">THE HABIT</text>
+<text x="580.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#655A6C">model the problem</text>
+<text x="580.0" y="272" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#655A6C">then check the model</text>
+<g class="ob871526" style="transform-origin:580px 248px"><circle cx="638" cy="248" r="2.7" fill="#B25C7F" opacity="1.0"/><circle cx="522" cy="248" r="1.8" fill="#B25C7F" opacity="1.0"/></g>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.82" numOctaves="2" stitchTiles="stitch"><animate attributeName="seed" values="0;7;0" dur="0.9s" repeatCount="indefinite"/></feTurbulence><feColorMatrix type="saturate" values="0"/></filter><rect width="1160" height="500" filter="url(#grain)" opacity="0.04" fill="#808080"/>
 </svg>
